@@ -70,7 +70,7 @@ export default function App() {
 );
 
   return (
-    <div className="app">
+    <div className="app min-h-screen bg-gray-50">
 
       <Header
         search={search}
@@ -82,7 +82,7 @@ export default function App() {
         total={pokemonData.length}
       />
 
-      <div className="pokemon-list">
+      <div className="pokemon-list w-full max-w-md mx-auto px-3 flex flex-col gap-2 pb-6">
         {filteredPokemon.map((pokemon) => (
           <PokemonCard
             key={`${pokemon.id}-${pokemon.form}-${pokemon.image}`}
