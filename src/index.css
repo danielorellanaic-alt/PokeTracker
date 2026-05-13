@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.app {
+  padding: 16px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.header input {
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+}
+
+.progress-container {
+  margin-top: 16px;
+}
+
+.progress-text {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.progress-bar {
+  height: 12px;
+  background: #ddd;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #4f46e5;
+}
+
+.pokemon-grid {
+  margin-top: 20px;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 12px;
+}
+
+.pokemon-card {
+  background: white;
+  border-radius: 18px;
+  padding: 12px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.pokemon-card:hover {
+  transform: scale(1.03);
+}
+
+.pokemon-card img {
+  width: 90px;
+  height: 90px;
+}
+
+.pokemon-card.caught {
+  background: #dcfce7;
+}

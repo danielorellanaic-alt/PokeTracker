@@ -1,0 +1,208 @@
+[
+  {
+    "id": "0001",
+    "pokedex": 1,
+    "name": "Bulbasaur",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0001.png"
+  },
+
+  {
+    "id": "0002",
+    "pokedex": 2,
+    "name": "Ivysaur",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0002.png"
+  },
+
+  {
+    "id": "0003",
+    "pokedex": 3,
+    "name": "Venusaur",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0003.png"
+  },
+
+  {
+    "id": "0003M",
+    "pokedex": 3,
+    "name": "Mega Venusaur",
+    "form": "regional",
+    "region": "null",
+    "image": "images/normal/0003.png"
+  },
+
+  {
+    "id": "0004",
+    "pokedex": 4,
+    "name": "Charmander",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0004.png"
+  },
+
+  {
+    "id": "0005",
+    "pokedex": 5,
+    "name": "Charmeleon",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0005.png"
+  },
+
+  {
+    "id": "0006",
+    "pokedex": 6,
+    "name": "Charizard",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0006.png"
+  },
+
+  {
+    "id": "0006M1",
+    "pokedex": 6,
+    "name": "Mega Charizard X",
+    "form": "regional",
+    "region": null,
+    "image": "images/normal/0006.png"
+  },
+
+  {
+    "id": "0006M2",
+    "pokedex": 6,
+    "name": "Mega Charizard Y",
+    "form": "regional",
+    "region": null,
+    "image": "images/normal/0006.png"
+  },
+
+  {
+    "id": "0006G",
+    "pokedex": 7,
+    "name": "Gigamax Charizard",
+    "form": "normal",
+    "region": null,
+    "image": "images/gigamax/0006G.png"
+  },
+
+  {
+    "id": "0007",
+    "pokedex": 7,
+    "name": "Squirtle",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0007.png"
+  },
+
+  {
+    "id": "0008",
+    "pokedex": 8,
+    "name": "Wartortle",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0008.png"
+  },
+
+  {
+    "id": "0009",
+    "pokedex": 9,
+    "name": "Blastoise",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0009.png"
+  },
+
+  {
+    "id": "0009M",
+    "pokedex": 9,
+    "name": "Mega Blastoise",
+    "form": "regional",
+    "region": null,
+    "image": "images/normal/0009.png"
+  },
+
+  {
+    "id": "0009G",
+    "pokedex": 9,
+    "name": "Gigamax Blastoise",
+    "form": "normal",
+    "region": null,
+    "image": "images/gigamax/0009G.png"
+  },
+
+  {
+    "id": "0010",
+    "pokedex": 10,
+    "name": "Caterpie",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0010.png"
+  },
+
+  {
+    "id": "0011",
+    "pokedex": 11,
+    "name": "Metapod",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0011.png"
+  },
+
+  {
+    "id": "0012",
+    "pokedex": 12,
+    "name": "Butterfree",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0012.png"
+  },
+
+  {
+    "id": "0013",
+    "pokedex": 13,
+    "name": "Gigamax Butterfree",
+    "form": "normal",
+    "region": null,
+    "image": "images/gigamax/0012G.png"
+  },
+
+  {
+    "id": "0013",
+    "pokedex": 13,
+    "name": "Weedle",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0013.png"
+  },
+
+  {
+    "id": "0014",
+    "pokedex": 14,
+    "name": "Kakuna",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0014.png"
+  },
+
+  {
+    "id": "0015",
+    "pokedex": 15,
+    "name": "Beedrill",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0015.png"
+  },
+
+  {
+    "id": "0015M",
+    "pokedex": 15,
+    "name": "Mega Beedrill",
+    "form": "regional",
+    "region": null,
+    "image": "images/normal/0015.png"
+  }
+]
