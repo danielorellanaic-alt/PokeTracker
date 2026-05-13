@@ -82,7 +82,7 @@ export default function App() {
         total={pokemonData.length}
       />
 
-      <div className="pokemon-grid">
+      <div className="pokemon-list">
         {filteredPokemon.map((pokemon) => (
           <PokemonCard
             key={`${pokemon.id}-${pokemon.form}-${pokemon.image}`}
