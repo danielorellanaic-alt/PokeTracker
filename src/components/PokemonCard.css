@@ -102,12 +102,16 @@
 
   color: white;
 
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 700;
 
-  letter-spacing: -1px;
-
   text-transform: capitalize;
+
+  position: relative;
+  z-index: 5;
+
+  text-shadow:
+    0 2px 4px rgba(0,0,0,0.18);
 
 }
 
@@ -116,15 +120,13 @@
 
   position: absolute;
 
-  right: 16px;
-  bottom: -8px;
+  right: 14px;
+  bottom: 2px;
 
-  font-size: 58px;
+  font-size: 42px;
   font-weight: 800;
 
-  line-height: 1;
-
-  color: rgba(255,255,255,0.26);
+  color: rgba(255,255,255,0.35);
 
   z-index: 1;
 
