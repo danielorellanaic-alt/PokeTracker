@@ -5,35 +5,45 @@ export default function PokemonCard({
   caught,
   toggle,
 }) {
+
   return (
+
     <div
       className="pokemon-card"
       onClick={() => toggle(pokemon.id)}
     >
+
       {/* numero pokedex */}
       <div className="pokemon-number">
-        #
-        {String(pokemon.id).padStart(3, "0")}
+        #{String(pokemon.id).padStart(3, "0")}
       </div>
 
-      {/* izquierda */}
+      {/* contenido izquierdo */}
       <div className="pokemon-left">
-        {/* imagen */}
+
+        {/* imagen pokemon */}
         <div className="pokemon-image-container">
+
           <img
             src={pokemon.image}
             alt={pokemon.name}
             className="pokemon-image"
           />
+
         </div>
 
-        {/* nombre */}
+        {/* info pokemon */}
         <div className="pokemon-info">
-          <h2>{pokemon.name}</h2>
+
+          <h2>
+            {pokemon.name}
+          </h2>
+
         </div>
+
       </div>
 
-      {/* punto capturado */}
+      {/* estado capturado */}
       <div
         className={
           caught
@@ -41,6 +51,9 @@ export default function PokemonCard({
             : "caught"
         }
       />
+
     </div>
+
   );
+
 }
