@@ -13,20 +13,23 @@ export default function PokemonCard({
       onClick={() => toggle(pokemon.id)}
     >
 
-      {/* número */}
+      {/* numero pokedex */}
       <div className="pokemon-number">
-        #{String(pokemon.id).padStart(3, "0")}
+        #
+        {String(pokemon.id).padStart(3, "0")}
       </div>
 
       {/* izquierda */}
       <div className="pokemon-left">
 
+        {/* imagen */}
         <img
           src={pokemon.image}
           alt={pokemon.name}
           className="pokemon-image"
         />
 
+        {/* info */}
         <div className="pokemon-info">
 
           <h2>
