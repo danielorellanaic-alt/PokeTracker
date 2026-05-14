@@ -29,24 +29,25 @@ export default function PokemonCard({
           className="pokemon-image"
         />
 
-        {/* info */}
+        {/* nombre */}
         <div className="pokemon-info">
 
           <h2>
             {pokemon.name}
           </h2>
 
-          <div
-            className={
-              caught
-                ? "caught active"
-                : "caught"
-            }
-          />
-
         </div>
 
       </div>
+
+      {/* punto capturado */}
+      <div
+        className={
+          caught
+            ? "caught active"
+            : "caught"
+        }
+      />
 
     </div>
 
