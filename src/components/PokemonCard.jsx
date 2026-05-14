@@ -1,38 +1,96 @@
-export default function PokemonCard({ pokemon, caught, toggle }) {
+export default function PokemonCard({
+  pokemon,
+  caught,
+  toggle,
+}) {
+
   return (
     <div
       onClick={() => toggle(pokemon.id)}
-      className="w-full bg-white rounded-2xl shadow-sm border border-gray-100 px-4 py-3 flex items-center justify-between active:scale-[0.98] transition"
+      className="
+        relative
+        overflow-hidden
+        w-full
+        h-28
+        rounded-3xl
+        px-5
+        flex
+        items-center
+        justify-between
+        shadow-md
+        transition-all
+        active:scale-[0.98]
+        bg-gradient-to-r
+        from-green-200
+        to-purple-200
+      "
     >
-      {/* IZQUIERDA */}
-      <div className="flex items-center gap-3">
-        <div className="w-12 h-12 bg-gray-50 rounded-xl flex items-center justify-center">
-          <img
-            src={pokemon.image}
-            alt={pokemon.name}
-            className="w-10 h-10 object-contain"
-          />
-        </div>
 
+      {/* numero grande fondo */}
+      <span
+        className="
+          absolute
+          right-4
+          bottom-0
+          text-6xl
+          font-black
+          text-white/40
+          select-none
+        "
+      >
+        #
+        {String(pokemon.id).padStart(3, "0")}
+      </span>
+
+      {/* lado izquierdo */}
+      <div className="flex items-center gap-4 z-10">
+
+        {/* imagen */}
+        <img
+          src={pokemon.image}
+          alt={pokemon.name}
+          className="
+            w-24
+            h-24
+            object-contain
+            drop-shadow-md
+          "
+        />
+
+        {/* nombre */}
         <div className="flex flex-col">
-          <span className="font-medium text-gray-800 capitalize">
+
+          <span
+            className="
+              text-3xl
+              font-bold
+              text-white
+              capitalize
+            "
+          >
             {pokemon.name}
           </span>
 
-          {pokemon.form && pokemon.form !== "normal" && (
-            <span className="text-xs text-gray-400 capitalize">
-              {pokemon.form}
-            </span>
-          )}
+          {/* estado capturado */}
+          <div className="mt-2">
+            <div
+              className={`
+                w-4
+                h-4
+                rounded-full
+                ${
+                  caught
+                    ? "bg-green-500"
+                    : "bg-white/50"
+                }
+              `}
+            />
+          </div>
+
         </div>
+
       </div>
 
-      {/* DERECHA */}
-      <div
-        className={`w-3.5 h-3.5 rounded-full ${
-          caught ? "bg-green-500" : "bg-gray-300"
-        }`}
-      />
     </div>
   );
 }
