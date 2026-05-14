@@ -1,6 +1,12 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
+import {
+  List,
+  Layers3,
+  PieChart,
+} from "lucide-react";
+
 import Header from "./components/Header";
 import PokemonCard from "./components/PokemonCard";
 import ProgressBar from "./components/ProgressBar";
@@ -21,10 +27,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    localStorage.setItem(
-      "caught",
-      JSON.stringify(caught)
-    );
+    localStorage.setItem("caught", JSON.stringify(caught));
   }, [caught]);
 
   const toggleCaught = (id) => {
@@ -83,8 +86,7 @@ export default function App() {
         <div className="page">
           <h1>Colecciones</h1>
           <p>
-            Aquí después podremos crear colecciones
-            personalizadas.
+            Aquí después podremos crear colecciones personalizadas.
           </p>
         </div>
       )}
@@ -109,21 +111,24 @@ export default function App() {
           className={activePage === "pokedex" ? "active" : ""}
           onClick={() => setActivePage("pokedex")}
         >
-          Pokédex
+          <List size={26} />
+          <span>Pokédex</span>
         </button>
 
         <button
           className={activePage === "collections" ? "active" : ""}
           onClick={() => setActivePage("collections")}
         >
-          Colecciones
+          <Layers3 size={26} />
+          <span>Colecciones</span>
         </button>
 
         <button
           className={activePage === "progress" ? "active" : ""}
           onClick={() => setActivePage("progress")}
         >
-          Progreso
+          <PieChart size={26} />
+          <span>Progreso</span>
         </button>
       </nav>
     </div>
