@@ -46,14 +46,6 @@ export default function ProgressBar({
 
           <div className="circle-inner">
 
-            <h3>
-              {caught}
-            </h3>
-
-            <span>
-              / {total}
-            </span>
-
             <p>
               {percent}%
             </p>
