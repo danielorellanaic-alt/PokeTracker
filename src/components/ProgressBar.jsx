@@ -72,7 +72,7 @@ export default function ProgressBar({
             </span>
 
             <p>
-              Caught
+              Captured
             </p>
 
           </div>
