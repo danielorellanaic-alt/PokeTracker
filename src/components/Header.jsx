@@ -1,3 +1,5 @@
+import "./Header.css";
+
 export default function Header({
   search,
   setSearch,
@@ -5,9 +7,12 @@ export default function Header({
   return (
     <div className="header">
 
-      <h1>PokeTracker</h1>
+      <h1>
+        PokeTracker
+      </h1>
 
       <input
+        className="search-input"
         type="text"
         placeholder="Search Pokémon..."
         value={search}
