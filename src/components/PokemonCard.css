@@ -1,163 +1,113 @@
 .pokemon-card {
-
-  position: relative;
-
   width: 100%;
-  height: 100px;
+  min-height: 92px;
 
-  border-radius: 28px;
-
-  background: linear-gradient(
-    135deg,
-    #9bd8b0,
-    #e7b8b8
-  );
+  border-radius: 18px;
+  background: #ffffff;
 
   display: flex;
   align-items: center;
   justify-content: space-between;
 
-  padding: 0 22px;
+  padding: 12px 16px;
 
-  overflow: hidden;
+  margin-bottom: 14px;
 
-  margin-bottom: 16px;
+  border: 2px solid #e5e5e5;
 
   box-shadow:
-    0 8px 18px rgba(0,0,0,0.10);
-
-  border:
-    2px solid rgba(255,255,255,0.35);
+    0 4px 12px rgba(0,0,0,0.06);
 
   transition:
     transform 0.15s ease,
-    box-shadow 0.15s ease;
-
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
 }
 
-/* efecto al tocar */
 .pokemon-card:active {
-
   transform: scale(0.985);
+}
 
+.pokemon-card.caught-card {
+  border-color: #22c55e;
 }
 
 /* lado izquierdo */
 .pokemon-left {
-
-  height: 100%;
-
   display: flex;
   align-items: center;
+  gap: 14px;
 
-  gap: 16px;
-
-  z-index: 2;
-
+  min-width: 0;
 }
 
 /* contenedor imagen */
 .pokemon-image-container {
-  width: 84px;
-  height: 100%;
+  width: 72px;
+  height: 72px;
 
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: center;
-
-  padding-top: 5px;
 
   flex-shrink: 0;
 }
 
 /* imagen pokemon */
 .pokemon-image {
-
-  max-width: 74px;
-  max-height: 74px;
+  max-width: 66px;
+  max-height: 66px;
 
   object-fit: contain;
-
   display: block;
-
-  transform: translateY(-3px) !important;
-
 }
 
 /* info pokemon */
 .pokemon-info {
-
   display: flex;
   flex-direction: column;
   justify-content: center;
 
-  z-index: 2;
-
-}
-
-/* nombre */
-.pokemon-info h2 {
-
-  margin: 0;
-
-  color: white;
-
-  font-size: 28px;
-  font-weight: 700;
-
-  text-transform: capitalize;
-
-  position: relative;
-  z-index: 5;
-
-  text-shadow:
-    0 2px 4px rgba(0,0,0,0.18);
-
+  min-width: 0;
 }
 
 /* numero pokedex */
 .pokemon-number {
+  color: #8a8a8a;
 
-  position: absolute;
+  font-size: 16px;
+  font-weight: 700;
 
-  right: 14px;
-  bottom: 2px;
+  margin-bottom: 2px;
+}
 
-  font-size: 42px;
+/* nombre */
+.pokemon-info h2 {
+  margin: 0;
+
+  color: #222;
+
+  font-size: 22px;
   font-weight: 800;
 
-  color: rgba(255,255,255,0.35);
+  text-transform: capitalize;
 
-  z-index: 1;
-
-  user-select: none;
-
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* punto capturado */
-.caught {
+/* badge caught */
+.caught-badge {
+  background: #dcfce7;
+  color: #16a34a;
 
-  width: 16px;
-  height: 16px;
+  font-size: 14px;
+  font-weight: 800;
 
-  border-radius: 50%;
+  padding: 7px 12px;
 
-  background:
-    rgba(255,255,255,0.5);
-
-  z-index: 2;
+  border-radius: 999px;
 
   flex-shrink: 0;
-
-  margin-left: 12px;
-
-}
-
-.caught.active {
-
-  background: #22c55e;
-
-  box-shadow:
-    0 0 10px rgba(34,197,94,0.7);
-
 }

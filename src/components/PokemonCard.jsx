@@ -9,19 +9,18 @@ export default function PokemonCard({
   return (
 
     <div
-      className="pokemon-card"
+      className={
+        caught
+          ? "pokemon-card caught-card"
+          : "pokemon-card"
+      }
       onClick={() => toggle(pokemon.id)}
     >
 
-      {/* numero pokedex */}
-      <div className="pokemon-number">
-        #{String(pokemon.id).padStart(3, "0")}
-      </div>
-
-      {/* contenido izquierdo */}
+      {/* izquierda */}
       <div className="pokemon-left">
 
-        {/* imagen pokemon */}
+        {/* imagen */}
         <div className="pokemon-image-container">
 
           <img
@@ -32,9 +31,16 @@ export default function PokemonCard({
 
         </div>
 
-        {/* info pokemon */}
+        {/* info */}
         <div className="pokemon-info">
 
+          {/* numero */}
+          <span className="pokemon-number">
+            #
+            {String(pokemon.id).padStart(4, "0")}
+          </span>
+
+          {/* nombre */}
           <h2>
             {pokemon.name}
           </h2>
@@ -43,14 +49,12 @@ export default function PokemonCard({
 
       </div>
 
-      {/* estado capturado */}
-      <div
-        className={
-          caught
-            ? "caught active"
-            : "caught"
-        }
-      />
+      {/* badge capturado */}
+      {caught && (
+        <div className="caught-badge">
+          Caught
+        </div>
+      )}
 
     </div>
 
