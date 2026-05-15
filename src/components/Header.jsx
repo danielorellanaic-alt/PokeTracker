@@ -14,7 +14,7 @@ export default function Header({
       <input
         className="search-input"
         type="text"
-        placeholder="Search Pokémon..."
+        placeholder="Buscar Pokémon..."
         value={search}
         onChange={(e) =>
           setSearch(e.target.value)

@@ -52,7 +52,7 @@ export default function PokemonCard({
       {/* badge capturado */}
       {caught && (
         <div className="caught-badge">
-          Captured
+          Capturado
         </div>
       )}
 
