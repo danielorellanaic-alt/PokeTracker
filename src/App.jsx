@@ -1,11 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-import {
-  List,
-  Layers3,
-  PieChart,
-} from "lucide-react";
+import { List, Layers3, PieChart } from "lucide-react";
 
 import Header from "./components/Header";
 import PokemonCard from "./components/PokemonCard";
@@ -17,6 +13,7 @@ export default function App() {
   const [activePage, setActivePage] = useState("pokedex");
   const [search, setSearch] = useState("");
   const [caught, setCaught] = useState([]);
+  const [filter, setFilter] = useState("all");
 
   useEffect(() => {
     const saved = localStorage.getItem("caught");
@@ -33,41 +30,57 @@ export default function App() {
   const toggleCaught = (id) => {
     setCaught((prev) =>
       prev.includes(id)
-        ? prev.filter((x) => x !== id)
+        ? prev.filter((pokemonId) => pokemonId !== id)
         : [...prev, id]
     );
   };
 
   const filteredPokemon = pokemonData.filter((pokemon) => {
-    const form =
-      pokemon.form && pokemon.form !== "normal"
-        ? pokemon.form
-        : "";
-
-    const pokemonName = pokemon.name.toLowerCase();
-    const formName = form.toLowerCase();
-
-    const fullName = `${form} ${pokemon.name}`
+    const matchesSearch = pokemon.name
       .toLowerCase()
-      .trim();
+      .includes(search.toLowerCase());
 
-    const searchText = search.toLowerCase().trim();
+    const isCaught = caught.includes(pokemon.id);
 
-    return (
-      pokemonName.startsWith(searchText) ||
-      formName.startsWith(searchText) ||
-      fullName.startsWith(searchText)
-    );
+    if (filter === "caught") {
+      return matchesSearch && isCaught;
+    }
+
+    if (filter === "uncaught") {
+      return matchesSearch && !isCaught;
+    }
+
+    return matchesSearch;
   });
 
   return (
     <div className="app">
       {activePage === "pokedex" && (
         <>
-          <Header
-            search={search}
-            setSearch={setSearch}
-          />
+          <Header search={search} setSearch={setSearch} />
+
+          <div className="filter-buttons">
+            <button
+              className={filter === "all" ? "active" : ""}
+              onClick={() => setFilter("all")}
+            >
+              Todos
+            </button>
+
+            <button
+              className={filter === "caught" ? "active" : ""}
+              onClick={() => setFilter("caught")}
+            >
+              Capturados
+            </button>
+
+            <button
+              className={filter === "uncaught" ? "active" : ""}
+              onClick={() => setFilter("uncaught")}
+            >
+              Sin capturar
+            </button>
+          </div>
 
           <div className="pokemon-list">
             {filteredPokemon.map((pokemon) => (
@@ -85,9 +98,7 @@ export default function App() {
       {activePage === "collections" && (
         <div className="page">
           <h1>Colecciones</h1>
-          <p>
-            Aquí después podremos crear colecciones personalizadas.
-          </p>
+          <p>Aquí después podremos crear colecciones personalizadas.</p>
         </div>
       )}
 
@@ -95,10 +106,7 @@ export default function App() {
         <div className="page">
           <h1>Progreso</h1>
 
-          <ProgressBar
-            caught={caught.length}
-            total={pokemonData.length}
-          />
+          <ProgressBar caught={caught.length} total={pokemonData.length} />
 
           <p>
             Capturados: {caught.length} / {pokemonData.length}

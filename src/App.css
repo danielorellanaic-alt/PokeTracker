@@ -112,3 +112,25 @@
   color: #111;
 
 }
+
+.filter-buttons {
+  display: flex;
+  gap: 8px;
+  margin: 12px 16px 18px;
+}
+
+.filter-buttons button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 14px;
+  background: #2d2d2d;
+  color: #aaa;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.filter-buttons button.active {
+  background: #ef5350;
+  color: white;
+}
