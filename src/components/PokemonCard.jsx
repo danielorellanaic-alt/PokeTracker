@@ -24,7 +24,7 @@ export default function PokemonCard({
         <div className="pokemon-image-container">
 
           <img
-            src={pokemon.image}
+            src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.pokedex}.png`}
             alt={pokemon.name}
             className="pokemon-image"
           />

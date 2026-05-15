@@ -64,10 +64,10 @@
 
 /* imagen pokemon */
 .pokemon-image {
-  max-width: 54px;
-  max-height: 54px;
-
+  max-width: 72px;
+  max-height: 72px;
   object-fit: contain;
+  image-rendering: pixelated;
   display: block;
 
 }
