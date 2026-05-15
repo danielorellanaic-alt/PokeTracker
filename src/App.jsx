@@ -85,7 +85,7 @@ export default function App() {
           <div className="pokemon-list">
             {filteredPokemon.map((pokemon) => (
               <PokemonCard
-                key={`${pokemon.id}-${pokemon.form}-${pokemon.image}`}
+                key={`${pokemon.id}`}
                 pokemon={pokemon}
                 caught={caught.includes(pokemon.id)}
                 toggle={toggleCaught}
