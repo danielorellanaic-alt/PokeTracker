@@ -1,4 +1,5 @@
 import "./PokemonCard.css";
+import { spriteOverrides } from "../data/spriteOverrides";
 
 function getPokemonSprite(pokemon) {
   const spriteId = spriteOverrides[pokemon.id] || pokemon.pokedex;
