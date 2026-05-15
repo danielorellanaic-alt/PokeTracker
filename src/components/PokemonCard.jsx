@@ -1,5 +1,11 @@
 import "./PokemonCard.css";
 
+function getPokemonSprite(pokemon) {
+  const spriteId = spriteOverrides[pokemon.id] || pokemon.pokedex;
+
+  return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${spriteId}.png`;
+}
+
 export default function PokemonCard({
   pokemon,
   caught,
@@ -24,7 +30,7 @@ export default function PokemonCard({
         <div className="pokemon-image-container">
 
           <img
-            src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.pokedex}.png`}
+            src={getPokemonSprite(pokemon)}
             alt={pokemon.name}
             className="pokemon-image"
           />
