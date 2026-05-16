@@ -38,8 +38,8 @@ export default function PokemonCard({
     <div
       className={
         caught
-          ? `pokemon-card pokemon-card-caught pokemon-card-${mainType}`
-          : `pokemon-card pokemon-card-${mainType}`
+          ? `pokemon-card caught-card type-${mainType}`
+          : `pokemon-card type-${mainType}`
       }
       onClick={() => toggle(pokemon.id)}
     >
