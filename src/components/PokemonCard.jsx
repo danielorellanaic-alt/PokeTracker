@@ -65,8 +65,7 @@ export default function PokemonCard({
 
           {/* numero */}
           <span className="pokemon-number">
-            #
-            {String(pokemon.id).padStart(4, "0")}
+            #{pokemon.pokedex}
           </span>
 
           {/* nombre */}
