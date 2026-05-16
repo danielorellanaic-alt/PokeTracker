@@ -31,13 +31,15 @@ export default function PokemonCard({
   toggle,
 }) {
 
+  const mainType = pokemon.types?.[0] || "normal";
+
   return (
 
     <div
       className={
         caught
-          ? "pokemon-card caught-card"
-          : "pokemon-card"
+          ? `pokemon-card pokemon-card-caught pokemon-card-${mainType}`
+          : `pokemon-card pokemon-card-${mainType}`
       }
       onClick={() => toggle(pokemon.id)}
     >

@@ -5,1923 +5,2463 @@
     "name": "Bulbasaur",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0001.png"
+    "image": "images/normal/0001.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0002",
     "pokedex": 2,
     "name": "Ivysaur",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0002.png"
+    "image": "images/normal/0002.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0003",
     "pokedex": 3,
     "name": "Venusaur",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0003.png"
+    "image": "images/normal/0003.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0003M",
     "pokedex": 3,
     "name": "Mega Venusaur",
     "form": "regional",
     "region": "null",
-    "image": "images/normal/0003.png"
+    "image": "images/normal/0003.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0004",
     "pokedex": 4,
     "name": "Charmander",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0004.png"
+    "image": "images/normal/0004.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0005",
     "pokedex": 5,
     "name": "Charmeleon",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0005.png"
+    "image": "images/normal/0005.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0006",
     "pokedex": 6,
     "name": "Charizard",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0006.png"
+    "image": "images/normal/0006.png",
+    "types": [
+      "fire",
+      "flying"
+    ]
   },
-
   {
     "id": "0006M1",
     "pokedex": 6,
     "name": "Mega Charizard X",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0006.png"
+    "image": "images/normal/0006.png",
+    "types": [
+      "fire",
+      "dragon"
+    ]
   },
-
   {
     "id": "0006M2",
     "pokedex": 6,
     "name": "Mega Charizard Y",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0006.png"
+    "image": "images/normal/0006.png",
+    "types": [
+      "fire",
+      "flying"
+    ]
   },
-
   {
     "id": "0006GG",
     "pokedex": 6,
     "name": "Gigamax Charizard",
     "form": "normal",
     "region": null,
-    "image": "images/gigamax/0006GG.png"
+    "image": "images/gigamax/0006GG.png",
+    "types": [
+      "fire",
+      "flying"
+    ]
   },
-
   {
     "id": "0007",
     "pokedex": 7,
     "name": "Squirtle",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0007.png"
+    "image": "images/normal/0007.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0008",
     "pokedex": 8,
     "name": "Wartortle",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0008.png"
+    "image": "images/normal/0008.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0009",
     "pokedex": 9,
     "name": "Blastoise",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0009.png"
+    "image": "images/normal/0009.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0009M",
     "pokedex": 9,
     "name": "Mega Blastoise",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0009.png"
+    "image": "images/normal/0009.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0009GG",
     "pokedex": 9,
     "name": "Gigamax Blastoise",
     "form": "normal",
     "region": null,
-    "image": "images/gigamax/0009GG.png"
+    "image": "images/gigamax/0009GG.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0010",
     "pokedex": 10,
     "name": "Caterpie",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0010.png"
+    "image": "images/normal/0010.png",
+    "types": [
+      "bug"
+    ]
   },
-
   {
     "id": "0011",
     "pokedex": 11,
     "name": "Metapod",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0011.png"
+    "image": "images/normal/0011.png",
+    "types": [
+      "bug"
+    ]
   },
-
   {
     "id": "0012",
     "pokedex": 12,
     "name": "Butterfree",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0012.png"
+    "image": "images/normal/0012.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
   },
-
   {
     "id": "0012GG",
     "pokedex": 12,
     "name": "Gigamax Butterfree",
     "form": "normal",
     "region": null,
-    "image": "images/gigamax/0012GG.png"
+    "image": "images/gigamax/0012GG.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
   },
-
   {
     "id": "0013",
     "pokedex": 13,
     "name": "Weedle",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0013.png"
+    "image": "images/normal/0013.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
   },
-
   {
     "id": "0014",
     "pokedex": 14,
     "name": "Kakuna",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0014.png"
+    "image": "images/normal/0014.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
   },
-
   {
     "id": "0015",
     "pokedex": 15,
     "name": "Beedrill",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0015.png"
+    "image": "images/normal/0015.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
   },
-
   {
     "id": "0015M",
     "pokedex": 15,
     "name": "Mega Beedrill",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0015.png"
+    "image": "images/normal/0015.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
   },
-
   {
     "id": "0016",
     "pokedex": 16,
     "name": "Pidgey",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0016.png"
+    "image": "images/normal/0016.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0017",
     "pokedex": 17,
     "name": "Pidgeotto",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0017.png"
+    "image": "images/normal/0017.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0018",
     "pokedex": 18,
     "name": "Pidgeot",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0018.png"
+    "image": "images/normal/0018.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0018M",
     "pokedex": 18,
     "name": "Mega Pidgeot",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0018.png"
+    "image": "images/normal/0018.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0019",
     "pokedex": 19,
     "name": "Rattata",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0019.png"
+    "image": "images/normal/0019.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0019A",
     "pokedex": 19,
     "name": "Rattata Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0019A.png"
+    "image": "images/regional/0019A.png",
+    "types": [
+      "dark",
+      "normal"
+    ]
   },
-
   {
     "id": "0020",
     "pokedex": 20,
     "name": "Raticate",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0020.png"
+    "image": "images/normal/0020.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0020A",
     "pokedex": 20,
     "name": "Raticate Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0020A.png"
+    "image": "images/regional/0020A.png",
+    "types": [
+      "dark",
+      "normal"
+    ]
   },
-
   {
     "id": "0021",
     "pokedex": 21,
     "name": "Spearow",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0021.png"
+    "image": "images/normal/0021.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0022",
     "pokedex": 22,
     "name": "Fearow",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0022.png"
+    "image": "images/normal/0022.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0023",
     "pokedex": 23,
     "name": "Ekans",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0023.png"
+    "image": "images/normal/0023.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0024",
     "pokedex": 24,
     "name": "Arbok",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0024.png"
+    "image": "images/normal/0024.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0025",
     "pokedex": 25,
     "name": "Pikachu",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0025.png"
+    "image": "images/normal/0025.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0025GG",
     "pokedex": 25,
     "name": "Gigamax Pikachu",
     "form": "normal",
     "region": null,
-    "image": "images/gigamax/0025GG.png"
+    "image": "images/gigamax/0025GG.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0026",
     "pokedex": 26,
     "name": "Raichu",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0026.png"
+    "image": "images/normal/0026.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0026A",
     "pokedex": 26,
     "name": "Raichu Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0026A.png"
+    "image": "images/regional/0026A.png",
+    "types": [
+      "electric",
+      "psychic"
+    ]
   },
-
   {
     "id": "0026M1",
     "pokedex": 26,
     "name": "Mega Raichu X",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0026.png"
+    "image": "images/normal/0026.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0026M2",
     "pokedex": 26,
     "name": "Mega Raichu Y",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0026.png"
+    "image": "images/normal/0026.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0027",
     "pokedex": 27,
     "name": "Sandshrew",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0027.png"
+    "image": "images/normal/0027.png",
+    "types": [
+      "ground"
+    ]
   },
-
   {
     "id": "0027A",
     "pokedex": 27,
     "name": "Sandshrew Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0027A.png"
+    "image": "images/regional/0027A.png",
+    "types": [
+      "ice",
+      "steel"
+    ]
   },
-
   {
     "id": "0028",
     "pokedex": 28,
     "name": "Sandslash",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0028.png"
+    "image": "images/normal/0028.png",
+    "types": [
+      "ground"
+    ]
   },
-
   {
     "id": "0028A",
     "pokedex": 28,
     "name": "Sandslash Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0028A.png"
+    "image": "images/regional/0028A.png",
+    "types": [
+      "ice",
+      "steel"
+    ]
   },
-
   {
     "id": "0029",
     "pokedex": 29,
     "name": "Nidoran♀",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0029.png"
+    "image": "images/normal/0029.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0030",
     "pokedex": 30,
     "name": "Nidorina",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0030.png"
+    "image": "images/normal/0030.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0031",
     "pokedex": 31,
     "name": "Nidoqueen",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0031.png"
+    "image": "images/normal/0031.png",
+    "types": [
+      "poison",
+      "ground"
+    ]
   },
-
   {
     "id": "0032",
     "pokedex": 32,
     "name": "Nidoran♂",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0032.png"
+    "image": "images/normal/0032.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0033",
     "pokedex": 33,
     "name": "Nidorino",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0033.png"
+    "image": "images/normal/0033.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0034",
     "pokedex": 34,
     "name": "Nidoking",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0034.png"
+    "image": "images/normal/0034.png",
+    "types": [
+      "poison",
+      "ground"
+    ]
   },
-
   {
     "id": "0035",
     "pokedex": 35,
     "name": "Clefairy",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0035.png"
+    "image": "images/normal/0035.png",
+    "types": [
+      "fairy"
+    ]
   },
-
   {
     "id": "0036",
     "pokedex": 36,
     "name": "Clefable",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0036.png"
+    "image": "images/normal/0036.png",
+    "types": [
+      "fairy"
+    ]
   },
-
   {
     "id": "0036M",
     "pokedex": 36,
     "name": "Mega Clefable",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0036.png"
+    "image": "images/normal/0036.png",
+    "types": [
+      "fairy"
+    ]
   },
-
   {
     "id": "0037",
     "pokedex": 37,
     "name": "Vulpix",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0037.png"
+    "image": "images/normal/0037.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0037A",
     "pokedex": 37,
     "name": "Vulpix Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0037A.png"
+    "image": "images/regional/0037A.png",
+    "types": [
+      "ice"
+    ]
   },
-
   {
     "id": "0038",
     "pokedex": 38,
     "name": "Ninetales",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0038.png"
+    "image": "images/normal/0038.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0038A",
     "pokedex": 38,
     "name": "Ninetales Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0038A.png"
+    "image": "images/regional/0038A.png",
+    "types": [
+      "ice",
+      "fairy"
+    ]
   },
-
   {
     "id": "0039",
     "pokedex": 39,
     "name": "Jigglypuff",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0039.png"
+    "image": "images/normal/0039.png",
+    "types": [
+      "normal",
+      "fairy"
+    ]
   },
-
   {
     "id": "0040",
     "pokedex": 40,
     "name": "Wigglytuff",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0040.png"
+    "image": "images/normal/0040.png",
+    "types": [
+      "normal",
+      "fairy"
+    ]
   },
-
   {
     "id": "0041",
     "pokedex": 41,
     "name": "Zubat",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0041.png"
+    "image": "images/normal/0041.png",
+    "types": [
+      "poison",
+      "flying"
+    ]
   },
-
   {
     "id": "0042",
     "pokedex": 42,
     "name": "Golbat",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0042.png"
+    "image": "images/normal/0042.png",
+    "types": [
+      "poison",
+      "flying"
+    ]
   },
-
   {
     "id": "0043",
     "pokedex": 43,
     "name": "Oddish",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0043.png"
+    "image": "images/normal/0043.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0044",
     "pokedex": 44,
     "name": "Gloom",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0044.png"
+    "image": "images/normal/0044.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0045",
     "pokedex": 45,
     "name": "Vileplume",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0045.png"
+    "image": "images/normal/0045.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0046",
     "pokedex": 46,
     "name": "Paras",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0046.png"
+    "image": "images/normal/0046.png",
+    "types": [
+      "bug",
+      "grass"
+    ]
   },
-
   {
     "id": "0047",
     "pokedex": 47,
     "name": "Parasect",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0047.png"
+    "image": "images/normal/0047.png",
+    "types": [
+      "bug",
+      "grass"
+    ]
   },
-
   {
     "id": "0048",
     "pokedex": 48,
     "name": "Venonat",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0048.png"
+    "image": "images/normal/0048.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
   },
-
   {
     "id": "0049",
     "pokedex": 49,
     "name": "Venomoth",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0049.png"
+    "image": "images/normal/0049.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
   },
-
   {
     "id": "0050",
     "pokedex": 50,
     "name": "Diglett",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0050.png"
+    "image": "images/normal/0050.png",
+    "types": [
+      "ground"
+    ]
   },
-
   {
     "id": "0050A",
     "pokedex": 50,
     "name": "Diglett Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0050A.png"
+    "image": "images/regional/0050A.png",
+    "types": [
+      "ground",
+      "steel"
+    ]
   },
-
   {
     "id": "0051",
     "pokedex": 51,
     "name": "Dugtrio",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0051.png"
+    "image": "images/normal/0051.png",
+    "types": [
+      "ground"
+    ]
   },
-
   {
     "id": "0051A",
     "pokedex": 51,
     "name": "Dugtrio Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0051A.png"
+    "image": "images/regional/0051A.png",
+    "types": [
+      "ground",
+      "steel"
+    ]
   },
-
   {
     "id": "0052",
     "pokedex": 52,
     "name": "Meowth",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0052.png"
+    "image": "images/normal/0052.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0052A",
     "pokedex": 52,
     "name": "Meowth Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0052A.png"
+    "image": "images/regional/0052A.png",
+    "types": [
+      "dark"
+    ]
   },
-
   {
     "id": "0052G",
     "pokedex": 52,
     "name": "Meowth Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0052G.png"
+    "image": "images/regional/0052G.png",
+    "types": [
+      "steel"
+    ]
   },
-
   {
     "id": "0052GG",
     "pokedex": 53,
     "name": "Gigamax Meowth",
     "form": "gigamax",
     "region": null,
-    "image": "images/gigamax/0052GG.png"
+    "image": "images/gigamax/0052GG.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0053",
     "pokedex": 53,
     "name": "Persian",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0053.png"
+    "image": "images/normal/0053.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0053A",
     "pokedex": 53,
     "name": "Persian Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0053A.png"
+    "image": "images/regional/0053A.png",
+    "types": [
+      "dark"
+    ]
   },
-
   {
     "id": "0054",
     "pokedex": 54,
     "name": "Psyduck",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0054.png"
+    "image": "images/normal/0054.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0055",
     "pokedex": 55,
     "name": "Golduck",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0055.png"
+    "image": "images/normal/0055.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0056",
     "pokedex": 56,
     "name": "Mankey",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0056.png"
+    "image": "images/normal/0056.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0057",
     "pokedex": 57,
     "name": "Primeape",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0057.png"
+    "image": "images/normal/0057.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0058",
     "pokedex": 58,
     "name": "Growlithe",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0058.png"
+    "image": "images/normal/0058.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0058H",
     "pokedex": 58,
     "name": "Growlithe Hisuian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0058H.png"
+    "image": "images/regional/0058H.png",
+    "types": [
+      "fire",
+      "rock"
+    ]
   },
-
   {
     "id": "0059",
     "pokedex": 59,
     "name": "Arcanine",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0059.png"
+    "image": "images/normal/0059.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0059H",
     "pokedex": 59,
     "name": "Arcanine Hisuian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0059H.png"
+    "image": "images/regional/0059H.png",
+    "types": [
+      "fire",
+      "rock"
+    ]
   },
-
   {
     "id": "0060",
     "pokedex": 60,
     "name": "Poliwag",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0060.png"
+    "image": "images/normal/0060.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0061",
     "pokedex": 61,
     "name": "Poliwhirl",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0061.png"
+    "image": "images/normal/0061.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0062",
     "pokedex": 62,
     "name": "Poliwrath",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0062.png"
+    "image": "images/normal/0062.png",
+    "types": [
+      "water",
+      "fighting"
+    ]
   },
-
   {
     "id": "0063",
     "pokedex": 63,
     "name": "Abra",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0063.png"
+    "image": "images/normal/0063.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0064",
     "pokedex": 64,
     "name": "Kadabra",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0064.png"
+    "image": "images/normal/0064.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0065",
     "pokedex": 65,
     "name": "Alakazam",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0065.png"
+    "image": "images/normal/0065.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0065M",
     "pokedex": 65,
     "name": "Mega Alakazam",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0065M.png"
+    "image": "images/normal/0065M.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0066",
     "pokedex": 66,
     "name": "Machop",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0066.png"
+    "image": "images/normal/0066.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0067",
     "pokedex": 67,
     "name": "Machoke",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0067.png"
+    "image": "images/normal/0067.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0068",
     "pokedex": 68,
     "name": "Machamp",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0068.png"
+    "image": "images/normal/0068.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0068GG",
     "pokedex": 68,
     "name": "Gigamax Machamp",
     "form": "gigamax",
     "region": null,
-    "image": "images/gigamax/0068GG.png"
+    "image": "images/gigamax/0068GG.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0069",
     "pokedex": 69,
     "name": "Bellsprout",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0069.png"
+    "image": "images/normal/0069.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0070",
     "pokedex": 70,
     "name": "Weepinbell",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0070.png"
+    "image": "images/normal/0070.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0071",
     "pokedex": 71,
     "name": "Victreebel",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0071.png"
+    "image": "images/normal/0071.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0071M",
     "pokedex": 71,
     "name": "Mega Victreebel",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0071M.png"
+    "image": "images/normal/0071M.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
   },
-
   {
     "id": "0072",
     "pokedex": 72,
     "name": "Tentacool",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0072.png"
+    "image": "images/normal/0072.png",
+    "types": [
+      "water",
+      "poison"
+    ]
   },
-
   {
     "id": "0073",
     "pokedex": 73,
     "name": "Tentacruel",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0073.png"
+    "image": "images/normal/0073.png",
+    "types": [
+      "water",
+      "poison"
+    ]
   },
-
   {
     "id": "0074",
     "pokedex": 74,
     "name": "Geodude",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0074.png"
+    "image": "images/normal/0074.png",
+    "types": [
+      "rock",
+      "ground"
+    ]
   },
-
   {
     "id": "0074A",
     "pokedex": 74,
     "name": "Geodude Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0074A.png"
+    "image": "images/regional/0074A.png",
+    "types": [
+      "rock",
+      "electric"
+    ]
   },
-
   {
     "id": "0075",
     "pokedex": 75,
     "name": "Graveler",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0075.png"
+    "image": "images/normal/0075.png",
+    "types": [
+      "rock",
+      "ground"
+    ]
   },
-
   {
     "id": "0075A",
     "pokedex": 75,
     "name": "Graveler Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0075A.png"
+    "image": "images/regional/0075A.png",
+    "types": [
+      "rock",
+      "electric"
+    ]
   },
-
   {
     "id": "0076",
     "pokedex": 76,
     "name": "Golem",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0076.png"
+    "image": "images/normal/0076.png",
+    "types": [
+      "rock",
+      "ground"
+    ]
   },
-
   {
     "id": "0076A",
     "pokedex": 76,
     "name": "Golem Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0076A.png"
+    "image": "images/regional/0076A.png",
+    "types": [
+      "rock",
+      "electric"
+    ]
   },
-
   {
     "id": "0077",
     "pokedex": 77,
     "name": "Ponyta",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0077.png"
+    "image": "images/normal/0077.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0077G",
     "pokedex": 77,
     "name": "Ponyta Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0077G.png"
+    "image": "images/regional/0077G.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0078",
     "pokedex": 78,
     "name": "Rapidash",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0078.png"
+    "image": "images/normal/0078.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0078G",
     "pokedex": 78,
     "name": "Rapidash Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0078G.png"
+    "image": "images/regional/0078G.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
   },
-
   {
     "id": "0079",
     "pokedex": 79,
     "name": "Slowpoke",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0079.png"
+    "image": "images/normal/0079.png",
+    "types": [
+      "water",
+      "psychic"
+    ]
   },
-
   {
     "id": "0080",
     "pokedex": 80,
     "name": "Slowbro",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0080.png"
+    "image": "images/normal/0080.png",
+    "types": [
+      "water",
+      "psychic"
+    ]
   },
-
   {
     "id": "0080M",
     "pokedex": 80,
     "name": "Mega Slowbro",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0080M.png"
+    "image": "images/normal/0080M.png",
+    "types": [
+      "water",
+      "psychic"
+    ]
   },
-
   {
     "id": "0080G",
     "pokedex": 80,
     "name": "Slowbro Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0080G.png"
+    "image": "images/regional/0080G.png",
+    "types": [
+      "poison",
+      "psychic"
+    ]
   },
-
   {
     "id": "0081",
     "pokedex": 81,
     "name": "Magnemite",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0081.png"
+    "image": "images/normal/0081.png",
+    "types": [
+      "electric",
+      "steel"
+    ]
   },
-
   {
     "id": "0082",
     "pokedex": 82,
     "name": "Magneton",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0082.png"
+    "image": "images/normal/0082.png",
+    "types": [
+      "electric",
+      "steel"
+    ]
   },
-
   {
     "id": "0083",
     "pokedex": 83,
     "name": "Farfetch'd",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0083.png"
+    "image": "images/normal/0083.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0083G",
     "pokedex": 83,
     "name": "Farfetch'd Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0083G.png"
+    "image": "images/regional/0083G.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0084",
     "pokedex": 84,
     "name": "Doduo",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0084.png"
+    "image": "images/normal/0084.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0085",
     "pokedex": 85,
     "name": "Dodrio",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0085.png"
+    "image": "images/normal/0085.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
   },
-
   {
     "id": "0086",
     "pokedex": 86,
     "name": "Seel",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0086.png"
+    "image": "images/normal/0086.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0087",
     "pokedex": 87,
     "name": "Dewgong",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0087.png"
+    "image": "images/normal/0087.png",
+    "types": [
+      "water",
+      "ice"
+    ]
   },
-
   {
     "id": "0088",
     "pokedex": 88,
     "name": "Grimer",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0088.png"
+    "image": "images/normal/0088.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0088A",
     "pokedex": 88,
     "name": "Grimer Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0088A.png"
+    "image": "images/regional/0088A.png",
+    "types": [
+      "poison",
+      "dark"
+    ]
   },
-
   {
     "id": "0089",
     "pokedex": 89,
     "name": "Muk",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0089.png"
+    "image": "images/normal/0089.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0089A",
     "pokedex": 89,
     "name": "Muk Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0089A.png"
+    "image": "images/regional/0089A.png",
+    "types": [
+      "poison",
+      "dark"
+    ]
   },
-
   {
     "id": "0090",
     "pokedex": 90,
     "name": "Shellder",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0090.png"
+    "image": "images/normal/0090.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0091",
     "pokedex": 91,
     "name": "Cloyster",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0091.png"
+    "image": "images/normal/0091.png",
+    "types": [
+      "water",
+      "ice"
+    ]
   },
-
   {
     "id": "0092",
     "pokedex": 92,
     "name": "Gastly",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0092.png"
+    "image": "images/normal/0092.png",
+    "types": [
+      "ghost",
+      "poison"
+    ]
   },
-
   {
     "id": "0093",
     "pokedex": 93,
     "name": "Haunter",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0093.png"
+    "image": "images/normal/0093.png",
+    "types": [
+      "ghost",
+      "poison"
+    ]
   },
-
   {
     "id": "0094",
     "pokedex": 94,
     "name": "Gengar",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0094.png"
+    "image": "images/normal/0094.png",
+    "types": [
+      "ghost",
+      "poison"
+    ]
   },
-
   {
     "id": "0094M",
     "pokedex": 94,
     "name": "Mega Gengar",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0094M.png"
+    "image": "images/normal/0094M.png",
+    "types": [
+      "ghost",
+      "poison"
+    ]
   },
-
   {
     "id": "0094GG",
     "pokedex": 94,
     "name": "Gigamax Gengar",
     "form": "normal",
     "region": null,
-    "image": "images/gigamax/0094GG.png"
+    "image": "images/gigamax/0094GG.png",
+    "types": [
+      "ghost",
+      "poison"
+    ]
   },
-
   {
     "id": "0095",
     "pokedex": 95,
     "name": "Onix",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0095.png"
+    "image": "images/normal/0095.png",
+    "types": [
+      "rock",
+      "ground"
+    ]
   },
-
   {
     "id": "0096",
     "pokedex": 96,
     "name": "Drowzee",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0096.png"
+    "image": "images/normal/0096.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0097",
     "pokedex": 97,
     "name": "Hypno",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0097.png"
+    "image": "images/normal/0097.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0098",
     "pokedex": 98,
     "name": "Krabby",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0098.png"
+    "image": "images/normal/0098.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0099",
     "pokedex": 99,
     "name": "Kingler",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0099.png"
+    "image": "images/normal/0099.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "099GG",
     "pokedex": 99,
     "name": "Gigamax Kingler",
     "form": "normal",
     "region": null,
-    "image": "images/gigamax/0099GG.png"
+    "image": "images/gigamax/0099GG.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0100",
     "pokedex": 100,
     "name": "Voltorb",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0100.png"
+    "image": "images/normal/0100.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0100H",
     "pokedex": 100,
     "name": "Voltorb Hisuian",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0100H.png"
+    "image": "images/normal/0100H.png",
+    "types": [
+      "electric",
+      "grass"
+    ]
   },
-
   {
     "id": "0101",
     "pokedex": 101,
     "name": "Electrode",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0101.png"
+    "image": "images/normal/0101.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0101H",
     "pokedex": 101,
     "name": "Electrode Hisuian",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0101H.png"
+    "image": "images/normal/0101H.png",
+    "types": [
+      "electric",
+      "grass"
+    ]
   },
-
   {
     "id": "0102",
     "pokedex": 102,
     "name": "Exeggcute",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0102.png"
+    "image": "images/normal/0102.png",
+    "types": [
+      "grass",
+      "psychic"
+    ]
   },
-
   {
     "id": "0103",
     "pokedex": 103,
     "name": "Exeggutor",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0103.png"
+    "image": "images/normal/0103.png",
+    "types": [
+      "grass",
+      "psychic"
+    ]
   },
-
   {
     "id": "0103A",
     "pokedex": 103,
     "name": "Exeggutor Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0103A.png"
+    "image": "images/regional/0103A.png",
+    "types": [
+      "grass",
+      "dragon"
+    ]
   },
-
   {
     "id": "0104",
     "pokedex": 104,
     "name": "Cubone",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0104.png"
+    "image": "images/normal/0104.png",
+    "types": [
+      "ground"
+    ]
   },
-
   {
     "id": "0105",
     "pokedex": 105,
     "name": "Marowak",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0105.png"
+    "image": "images/normal/0105.png",
+    "types": [
+      "ground"
+    ]
   },
-
   {
     "id": "0105A",
     "pokedex": 105,
     "name": "Marowak Alolan",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0105A.png"
+    "image": "images/regional/0105A.png",
+    "types": [
+      "fire",
+      "ghost"
+    ]
   },
-
   {
     "id": "0106",
     "pokedex": 106,
     "name": "Hitmonlee",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0106.png"
+    "image": "images/normal/0106.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0107",
     "pokedex": 107,
     "name": "Hitmonchan",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0107.png"
+    "image": "images/normal/0107.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0108",
     "pokedex": 108,
     "name": "Lickitung",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0108.png"
+    "image": "images/normal/0108.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0109",
     "pokedex": 109,
     "name": "Koffing",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0109.png"
+    "image": "images/normal/0109.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0110",
     "pokedex": 110,
     "name": "Weezing",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0110.png"
+    "image": "images/normal/0110.png",
+    "types": [
+      "poison"
+    ]
   },
-
   {
     "id": "0110G",
     "pokedex": 110,
     "name": "Weezing Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0110G.png"
+    "image": "images/regional/0110G.png",
+    "types": [
+      "poison",
+      "fairy"
+    ]
   },
-
   {
     "id": "0111",
     "pokedex": 111,
     "name": "Rhyhorn",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0111.png"
+    "image": "images/normal/0111.png",
+    "types": [
+      "ground",
+      "rock"
+    ]
   },
-
   {
     "id": "0112",
     "pokedex": 112,
     "name": "Rhydon",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0112.png"
+    "image": "images/normal/0112.png",
+    "types": [
+      "ground",
+      "rock"
+    ]
   },
-
   {
     "id": "0113",
     "pokedex": 113,
     "name": "Chansey",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0113.png"
+    "image": "images/normal/0113.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0114",
     "pokedex": 114,
     "name": "Tangela",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0114.png"
+    "image": "images/normal/0114.png",
+    "types": [
+      "grass"
+    ]
   },
-
   {
     "id": "0115",
     "pokedex": 115,
     "name": "Kangaskhan",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0115.png"
+    "image": "images/normal/0115.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0115M",
     "pokedex": 115,
     "name": "Mega Kangaskhan",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0115M.png"
+    "image": "images/normal/0115M.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0116",
     "pokedex": 116,
     "name": "Horsea",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0116.png"
+    "image": "images/normal/0116.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0117",
     "pokedex": 117,
     "name": "Seadra",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0117.png"
+    "image": "images/normal/0117.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0118",
     "pokedex": 118,
     "name": "Goldeen",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0118.png"
+    "image": "images/normal/0118.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0119",
     "pokedex": 119,
     "name": "Seaking",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0119.png"
+    "image": "images/normal/0119.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0120",
     "pokedex": 120,
     "name": "Staryu",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0120.png"
+    "image": "images/normal/0120.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0121",
     "pokedex": 121,
     "name": "Starmie",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0121.png"
+    "image": "images/normal/0121.png",
+    "types": [
+      "water",
+      "psychic"
+    ]
   },
-
   {
     "id": "0122",
     "pokedex": 122,
     "name": "Mr. Mime",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0122.png"
+    "image": "images/normal/0122.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
   },
-
   {
     "id": "0122G",
     "pokedex": 122,
     "name": "Mr. Mime Galarian",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0122G.png"
+    "image": "images/regional/0122G.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
   },
-
   {
     "id": "0123",
     "pokedex": 123,
     "name": "Scyther",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0123.png"
+    "image": "images/normal/0123.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
   },
-
   {
     "id": "0124",
     "pokedex": 124,
     "name": "Jynx",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0124.png"
+    "image": "images/normal/0124.png",
+    "types": [
+      "ice",
+      "psychic"
+    ]
   },
-
   {
     "id": "0125",
     "pokedex": 125,
     "name": "Electabuzz",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0125.png"
+    "image": "images/normal/0125.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0126",
     "pokedex": 126,
     "name": "Magmar",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0126.png"
+    "image": "images/normal/0126.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0127",
     "pokedex": 127,
     "name": "Pinsir",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0127.png"
+    "image": "images/normal/0127.png",
+    "types": [
+      "bug"
+    ]
   },
-
   {
     "id": "0127M",
     "pokedex": 127,
     "name": "Mega Pinsir",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0127M.png"
+    "image": "images/normal/0127M.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
   },
-
   {
     "id": "0128",
     "pokedex": 128,
     "name": "Tauros",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0128.png"
+    "image": "images/normal/0128.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0128P1",
     "pokedex": 128,
     "name": "Tauros Paldean Aqua Breed",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0128P1.png"
+    "image": "images/regional/0128P1.png",
+    "types": [
+      "fighting",
+      "water"
+    ]
   },
-
   {
     "id": "0128P2",
     "pokedex": 128,
     "name": "Tauros Paldean Blaze Breed",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0128P2.png"
+    "image": "images/regional/0128P2.png",
+    "types": [
+      "fighting",
+      "fire"
+    ]
   },
-
   {
     "id": "0128P3",
     "pokedex": 128,
     "name": "Tauros Paldean Combat Breed",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0128P3.png"
+    "image": "images/regional/0128P3.png",
+    "types": [
+      "fighting"
+    ]
   },
-
   {
     "id": "0129",
     "pokedex": 129,
     "name": "Magikarp",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0129.png"
+    "image": "images/normal/0129.png",
+    "types": [
+      "water"
+    ]
   },
-
   {
     "id": "0130",
     "pokedex": 130,
     "name": "Gyarados",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0130.png"
+    "image": "images/normal/0130.png",
+    "types": [
+      "water",
+      "flying"
+    ]
   },
-
   {
     "id": "0130M",
     "pokedex": 130,
     "name": "Mega Gyarados",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0130M.png"
+    "image": "images/normal/0130M.png",
+    "types": [
+      "water",
+      "dark"
+    ]
   },
-
   {
     "id": "0131",
     "pokedex": 131,
     "name": "Lapras",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0131.png"
+    "image": "images/normal/0131.png",
+    "types": [
+      "water",
+      "ice"
+    ]
   },
-
   {
     "id": "0131GG",
     "pokedex": 131,
     "name": "Lapras Gigamax",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0131GG.png"
+    "image": "images/regional/0131GG.png",
+    "types": [
+      "water",
+      "ice"
+    ]
   },
-
   {
     "id": "0132",
     "pokedex": 132,
     "name": "Ditto",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0132.png"
+    "image": "images/normal/0132.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0133",
     "pokedex": 133,
     "name": "Eevee",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0133.png"
+    "image": "images/normal/0133.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0133GG",
     "pokedex": 133,
     "name": "Eevee Gigamax",
     "form": "regional",
     "region": null,
-    "image": "images/regional/0133GG.png"
+    "image": "images/regional/0133GG.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0135",
     "pokedex": 135,
     "name": "Jolteon",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0135.png"
+    "image": "images/normal/0135.png",
+    "types": [
+      "electric"
+    ]
   },
-
   {
     "id": "0136",
     "pokedex": 136,
     "name": "Flareon",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0136.png"
+    "image": "images/normal/0136.png",
+    "types": [
+      "fire"
+    ]
   },
-
   {
     "id": "0137",
     "pokedex": 137,
     "name": "Porygon",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0137.png"
+    "image": "images/normal/0137.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0138",
     "pokedex": 138,
     "name": "Omanyte",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0138.png"
+    "image": "images/normal/0138.png",
+    "types": [
+      "rock",
+      "water"
+    ]
   },
-
   {
     "id": "0139",
     "pokedex": 139,
     "name": "Omastar",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0139.png"
+    "image": "images/normal/0139.png",
+    "types": [
+      "rock",
+      "water"
+    ]
   },
-
   {
     "id": "0140",
     "pokedex": 140,
     "name": "Kabuto",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0140.png"
+    "image": "images/normal/0140.png",
+    "types": [
+      "rock",
+      "water"
+    ]
   },
-
   {
     "id": "0141",
     "pokedex": 141,
     "name": "Kabutops",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0141.png"
+    "image": "images/normal/0141.png",
+    "types": [
+      "rock",
+      "water"
+    ]
   },
-
   {
     "id": "0142",
     "pokedex": 142,
     "name": "Aerodactyl",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0142.png"
+    "image": "images/normal/0142.png",
+    "types": [
+      "rock",
+      "flying"
+    ]
   },
-
   {
     "id": "0142M",
     "pokedex": 142,
     "name": "Mega Aerodactyl",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0142M.png"
+    "image": "images/normal/0142M.png",
+    "types": [
+      "rock",
+      "flying"
+    ]
   },
-
   {
     "id": "0143",
     "pokedex": 143,
     "name": "Snorlax",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0143.png"
+    "image": "images/normal/0143.png",
+    "types": [
+      "normal"
+    ]
   },
-
   {
     "id": "0144",
     "pokedex": 144,
     "name": "Articuno",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0144.png"
+    "image": "images/normal/0144.png",
+    "types": [
+      "ice",
+      "flying"
+    ]
   },
-
   {
     "id": "0144G",
     "pokedex": 144,
     "name": "Articuno Galarian",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0144G.png"
+    "image": "images/normal/0144G.png",
+    "types": [
+      "psychic",
+      "flying"
+    ]
   },
-
   {
     "id": "0145",
     "pokedex": 145,
     "name": "Zapdos",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0145.png"
+    "image": "images/normal/0145.png",
+    "types": [
+      "electric",
+      "flying"
+    ]
   },
-
   {
     "id": "0145G",
     "pokedex": 145,
     "name": "Zapdos Galarian",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0145G.png"
+    "image": "images/normal/0145G.png",
+    "types": [
+      "fighting",
+      "flying"
+    ]
   },
-
   {
     "id": "0146",
     "pokedex": 146,
     "name": "Moltres",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0146.png"
+    "image": "images/normal/0146.png",
+    "types": [
+      "fire",
+      "flying"
+    ]
   },
-
   {
     "id": "0146G",
     "pokedex": 147,
     "name": "Moltres Galarian",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0146G.png"
+    "image": "images/normal/0146G.png",
+    "types": [
+      "dark",
+      "flying"
+    ]
   },
-
   {
     "id": "0147",
     "pokedex": 147,
     "name": "Dratini",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0147.png"
+    "image": "images/normal/0147.png",
+    "types": [
+      "dragon"
+    ]
   },
-
   {
     "id": "0148",
     "pokedex": 148,
     "name": "Dragonair",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0148.png"
+    "image": "images/normal/0148.png",
+    "types": [
+      "dragon"
+    ]
   },
-
   {
     "id": "0149",
     "pokedex": 149,
     "name": "Dragonite",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0149.png"
+    "image": "images/normal/0149.png",
+    "types": [
+      "dragon",
+      "flying"
+    ]
   },
-
   {
     "id": "0150",
     "pokedex": 150,
     "name": "Mewtwo",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0150.png"
+    "image": "images/normal/0150.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0150M1",
     "pokedex": 150,
     "name": "Mega Mewtwo X",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0150M1.png"
+    "image": "images/normal/0150M1.png",
+    "types": [
+      "psychic",
+      "fighting"
+    ]
   },
-
   {
     "id": "0150M2",
     "pokedex": 150,
     "name": "Mega Mewtwo Y",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0150M2.png"
+    "image": "images/normal/0150M2.png",
+    "types": [
+      "psychic"
+    ]
   },
-
   {
     "id": "0151",
     "pokedex": 151,
     "name": "Mew",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0151.png"
+    "image": "images/normal/0151.png",
+    "types": [
+      "psychic"
+    ]
   }
 ]
