@@ -1,6 +1,21 @@
 import "./PokemonCard.css";
 import { spriteOverrides } from "../data/spriteOverrides";
 
+function hasSpecialForm(pokemon) {
+  return (
+    pokemon.id.endsWith("M") ||
+    pokemon.id.endsWith("M1") ||
+    pokemon.id.endsWith("M2") ||
+    pokemon.id.endsWith("GG") ||
+    pokemon.id.endsWith("A") ||
+    pokemon.id.endsWith("G") ||
+    pokemon.id.endsWith("H") ||
+    pokemon.id.endsWith("P1") ||
+    pokemon.id.endsWith("P2") ||
+    pokemon.id.endsWith("P3")
+  );
+}
+
 function getPokemonSprite(pokemon) {
   const spriteId = spriteOverrides[pokemon.id] || pokemon.pokedex;
 
@@ -33,7 +48,11 @@ export default function PokemonCard({
           <img
             src={getPokemonSprite(pokemon)}
             alt={pokemon.name}
-            className="pokemon-image"
+            className={
+              hasSpecialForm(pokemon) && !spriteOverrides[pokemon.id]
+                ? "pokemon-image special-form"
+                : "pokemon-image"
+            }
           />
 
         </div>
