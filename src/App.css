@@ -21,6 +21,27 @@
   padding-bottom: 14px;
 }
 
+/* sombra/degradado inferior */
+.pokedex-sticky-header::after {
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  bottom: -22px;
+
+  width: 100%;
+  height: 28px;
+
+  pointer-events: none;
+
+  background: linear-gradient(
+    to bottom,
+    rgba(15,15,18,0.55),
+    rgba(15,15,18,0)
+  );
+}
+
 /* lista pokedex */
 .pokemon-list {
   max-width: 430px;
