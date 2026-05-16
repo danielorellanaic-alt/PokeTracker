@@ -3058,5 +3058,577 @@
       "bug",
       "flying"
     ]
+  },
+  {
+    "id": "0194",
+    "pokedex": 194,
+    "name": "Wooper",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0194.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0194P",
+    "pokedex": 194,
+    "name": "Wooper Paldean",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0194P.png",
+    "types": [
+      "poison",
+      "ground"
+    ]
+  },
+  {
+    "id": "0195",
+    "pokedex": 195,
+    "name": "Quagsire",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0195.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0196",
+    "pokedex": 196,
+    "name": "Espeon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0196.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0197",
+    "pokedex": 197,
+    "name": "Umbreon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0197.png",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": "0198",
+    "pokedex": 198,
+    "name": "Murkrow",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0198.png",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "id": "0199",
+    "pokedex": 199,
+    "name": "Slowking",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0199.png",
+    "types": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0199G",
+    "pokedex": 199,
+    "name": "Slowking Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0199G.png",
+    "types": [
+      "poison",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0200",
+    "pokedex": 200,
+    "name": "Misdreavus",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0200.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0201",
+    "pokedex": 201,
+    "name": "Unown",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0201.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0202",
+    "pokedex": 202,
+    "name": "Wobbuffet",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0202.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0203",
+    "pokedex": 203,
+    "name": "Girafarig",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0203.png",
+    "types": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0204",
+    "pokedex": 204,
+    "name": "Pineco",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0204.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0205",
+    "pokedex": 205,
+    "name": "Forretress",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0205.png",
+    "types": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "id": "0206",
+    "pokedex": 206,
+    "name": "Dunsparce",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0206.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0207",
+    "pokedex": 207,
+    "name": "Gligar",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0207.png",
+    "types": [
+      "ground",
+      "flying"
+    ]
+  },
+  {
+    "id": "0208",
+    "pokedex": 208,
+    "name": "Steelix",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0208.png",
+    "types": [
+      "steel",
+      "ground"
+    ]
+  },
+  {
+    "id": "0208M",
+    "pokedex": 208,
+    "name": "Mega Steelix",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0208M.png",
+    "types": [
+      "steel",
+      "ground"
+    ]
+  },
+  {
+    "id": "0209",
+    "pokedex": 209,
+    "name": "Snubbull",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0209.png",
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": "0210",
+    "pokedex": 210,
+    "name": "Granbull",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0210.png",
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": "0211",
+    "pokedex": 211,
+    "name": "Qwilfish",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0211.png",
+    "types": [
+      "water",
+      "poison"
+    ]
+  },
+  {
+    "id": "0211H",
+    "pokedex": 211,
+    "name": "Qwilfish Hisuian",
+    "form": "",
+    "region": null,
+    "image": "images/regional/0211H.png",
+    "types": [
+      "dark",
+      "poison"
+    ]
+  },
+  {
+    "id": "0212",
+    "pokedex": 212,
+    "name": "Scizor",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0212.png",
+    "types": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "id": "0212M",
+    "pokedex": 212,
+    "name": "Mega Scizor",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0212M.png",
+    "types": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "id": "0213",
+    "pokedex": 213,
+    "name": "Shuckle",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0213.png",
+    "types": [
+      "bug",
+      "rock"
+    ]
+  },
+  {
+    "id": "0214",
+    "pokedex": 214,
+    "name": "Heracross",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0214.png",
+    "types": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0214M",
+    "pokedex": 214,
+    "name": "Mega Heracross",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0214M.png",
+    "types": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0215",
+    "pokedex": 215,
+    "name": "Sneasel",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0215.png",
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "id": "0215H",
+    "pokedex": 215,
+    "name": "Sneasel Hisuian",
+    "form": "",
+    "region": null,
+    "image": "images/regional/0215H.png",
+    "types": [
+      "fighting",
+      "poison"
+    ]
+  },
+  {
+    "id": "0216",
+    "pokedex": 216,
+    "name": "Teddiursa",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0216.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0217",
+    "pokedex": 217,
+    "name": "Ursaring",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0217.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0218",
+    "pokedex": 218,
+    "name": "Slugma",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0218.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0219",
+    "pokedex": 219,
+    "name": "Magcargo",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0219.png",
+    "types": [
+      "fire",
+      "rock"
+    ]
+  },
+  {
+    "id": "0220",
+    "pokedex": 220,
+    "name": "Swinub",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0220.png",
+    "types": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "id": "0221",
+    "pokedex": 221,
+    "name": "Piloswine",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0221.png",
+    "types": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "id": "0222",
+    "pokedex": 222,
+    "name": "Corsola",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0222.png",
+    "types": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "id": "0222G",
+    "pokedex": 222,
+    "name": "Corsola Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0222G.png",
+    "types": [
+      "ghost",
+      "poison"
+    ]
+  },
+  {
+    "id": "0223",
+    "pokedex": 223,
+    "name": "Remoraid",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0223.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0224",
+    "pokedex": 224,
+    "name": "Octillery",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0224.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0225",
+    "pokedex": 225,
+    "name": "Delibird",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0225.png",
+    "types": [
+      "ice",
+      "flying"
+    ]
+  },
+  {
+    "id": "0226",
+    "pokedex": 226,
+    "name": "Mantine",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0226.png",
+    "types": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "id": "0227",
+    "pokedex": 227,
+    "name": "Skarmory",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0227.png",
+    "types": [
+      "steel",
+      "flying"
+     ]
+   },
+   {
+    "id": "0227M",
+    "pokedex": 227,
+    "name": "Mega Skarmory",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0227M.png",
+    "types": [
+      "steel",
+      "flying"
+     ]
+   },
+  {
+    "id": "0228",
+    "pokedex": 228,
+    "name": "Houndour",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0228.png",
+    "types": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "id": "0229",
+    "pokedex": 229,
+    "name": "Houndoom",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0229.png",
+    "types": [
+      "dark",
+      "fire"
+     ]
+   },
+  {
+    "id": "0229M",
+    "pokedex": 229,
+    "name": "Mega Houndoom",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0229M.png",
+    "types": [
+      "dark",
+      "fire"
+     ]
+   },
+  {
+    "id": "0230",
+    "pokedex": 230,
+    "name": "Kingdra",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0230.png",
+    "types": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0231",
+    "pokedex": 231,
+    "name": "Phanpy",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0231.png",
+    "types": [
+      "ground"
+    ]
+  },
+  {
+    "id": "0232",
+    "pokedex": 232,
+    "name": "Donphan",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0232.png",
+    "types": [
+      "ground"
+    ]
   }
 ]
