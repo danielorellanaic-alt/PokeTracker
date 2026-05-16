@@ -1342,6 +1342,7 @@
     "region": null,
     "image": "images/regional/0079G.png",
     "types": [
+      "water",
       "psychic"
     ]
   },
@@ -2531,6 +2532,531 @@
     "image": "images/normal/0151.png",
     "types": [
       "psychic"
+    ]
+  },
+  {
+    "id": "0152",
+    "pokedex": 152,
+    "name": "Chikorita",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0152.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0153",
+    "pokedex": 153,
+    "name": "Bayleef",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0153.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0154",
+    "pokedex": 154,
+    "name": "Meganium",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0154.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0154M",
+    "pokedex": 154,
+    "name": "Mega Meganium",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0154M.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0155",
+    "pokedex": 155,
+    "name": "Cyndaquil",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0155.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0156",
+    "pokedex": 156,
+    "name": "Quilava",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0156.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0157",
+    "pokedex": 157,
+    "name": "Typhlosion",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0157.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0157H",
+    "pokedex": 157,
+    "name": "Typhlosion Hisuian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0157H.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0158",
+    "pokedex": 158,
+    "name": "Totodile",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0158.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0159",
+    "pokedex": 159,
+    "name": "Croconaw",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0159.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0160",
+    "pokedex": 160,
+    "name": "Feraligatr",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0160.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0160M",
+    "pokedex": 160,
+    "name": "Mega Feraligatr",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0160M.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0161",
+    "pokedex": 161,
+    "name": "Sentret",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0161.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0162",
+    "pokedex": 162,
+    "name": "Furret",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0162.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0163",
+    "pokedex": 163,
+    "name": "Hoothoot",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0163.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0164",
+    "pokedex": 164,
+    "name": "Noctowl",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0164.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0165",
+    "pokedex": 165,
+    "name": "Ledyba",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0165.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0166",
+    "pokedex": 166,
+    "name": "Ledian",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0166.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0167",
+    "pokedex": 167,
+    "name": "Spinarak",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0167.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "id": "0168",
+    "pokedex": 168,
+    "name": "Ariados",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0168.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "id": "0169",
+    "pokedex": 169,
+    "name": "Crobat",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0169.png",
+    "types": [
+      "poison",
+      "flying"
+    ]
+  },
+  {
+    "id": "0170",
+    "pokedex": 170,
+    "name": "Chinchou",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0170.png",
+    "types": [
+      "water",
+      "electric"
+    ]
+  },
+  {
+    "id": "0171",
+    "pokedex": 171,
+    "name": "Lanturn",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0171.png",
+    "types": [
+      "water",
+      "electric"
+    ]
+  },
+  {
+    "id": "0172",
+    "pokedex": 172,
+    "name": "Pichu",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0172.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0173",
+    "pokedex": 173,
+    "name": "Cleffa",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0173.png",
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": "0174",
+    "pokedex": 174,
+    "name": "Igglybuff",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0174.png",
+    "types": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0175",
+    "pokedex": 175,
+    "name": "Togepi",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0175.png",
+    "types": [
+      "fairy"
+    ]
+  },
+  {
+    "id": "0176",
+    "pokedex": 176,
+    "name": "Togetic",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0176.png",
+    "types": [
+      "fairy",
+      "flying"
+    ]
+  },
+  {
+    "id": "0177",
+    "pokedex": 177,
+    "name": "Natu",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0177.png",
+    "types": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "id": "0178",
+    "pokedex": 178,
+    "name": "Xatu",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0178.png",
+    "types": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "id": "0179",
+    "pokedex": 179,
+    "name": "Mareep",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0179.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0180",
+    "pokedex": 180,
+    "name": "Flaaffy",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0180.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0181",
+    "pokedex": 181,
+    "name": "Ampharos",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0181.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0181M",
+    "pokedex": 181,
+    "name": "Mega Ampharos",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0181M.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0182",
+    "pokedex": 182,
+    "name": "Bellossom",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0182.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0183",
+    "pokedex": 183,
+    "name": "Marill",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0183.png",
+    "types": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0184",
+    "pokedex": 184,
+    "name": "Azumarill",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0184.png",
+    "types": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0185",
+    "pokedex": 185,
+    "name": "Sudowoodo",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0185.png",
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "id": "0186",
+    "pokedex": 186,
+    "name": "Politoed",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0186.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0187",
+    "pokedex": 187,
+    "name": "Hoppip",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0187.png ",
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": "0188",
+    "pokedex": 188,
+    "name": "Skiploom",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0188.png",
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": "0189",
+    "pokedex": 189,
+    "name": "Jumpluff",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0189.png",
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": "0190",
+    "pokedex": 190,
+    "name": "Aipom",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0190.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0191",
+    "pokedex": 191,
+    "name": "Sunkern",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0191.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0192",
+    "pokedex": 192,
+    "name": "Sunflora",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0192.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0193",
+    "pokedex": 193,
+    "name": "Yanma",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0193.png",
+    "types": [
+      "bug",
+      "flying"
     ]
   }
 ]
