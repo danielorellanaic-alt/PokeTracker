@@ -3,8 +3,7 @@ import { spriteOverrides } from "../data/spriteOverrides";
 import { typeIcons } from "../data/typeIcons";
 import { typeTranslations } from "../data/typeTranslations";
 import Icon from "@mdi/react";
-import { mdiPokeballOutline } from "@mdi/js";
-
+import { mdiCheckCircle } from "@mdi/js";
 function hasSpecialForm(pokemon) {
   const id = pokemon.id;
 
