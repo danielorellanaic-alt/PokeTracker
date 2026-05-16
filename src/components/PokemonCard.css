@@ -151,93 +151,99 @@
   border: 1px solid rgba(74,222,128,0.18);
 }
 
-/* Types Theme */
-.pokemon-card.type-normal {
-  background:
-    linear-gradient(135deg, #1f2026 0%, #1a1b20 100%);
+/* ========================= */
+/* TYPE THEMES - stronger */
+/* ========================= */
+
+.pokemon-card {
+  position: relative;
+  overflow: hidden;
 }
 
-.pokemon-card.type-fire {
-  background:
-    linear-gradient(135deg, #2b1815 0%, #1a1b20 100%);
+.pokemon-card::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  opacity: 0.28;
+
+  pointer-events: none;
 }
 
-.pokemon-card.type-water {
-  background:
-    linear-gradient(135deg, #142235 0%, #1a1b20 100%);
+.pokemon-card > * {
+  position: relative;
+  z-index: 1;
 }
 
-.pokemon-card.type-grass {
-  background:
-    linear-gradient(135deg, #16281c 0%, #1a1b20 100%);
+.pokemon-card.type-normal::before {
+  background: linear-gradient(135deg, #a8a77a, transparent 55%);
 }
 
-.pokemon-card.type-electric {
-  background:
-    linear-gradient(135deg, #2d260f 0%, #1a1b20 100%);
+.pokemon-card.type-fire::before {
+  background: linear-gradient(135deg, #ee8130, transparent 55%);
 }
 
-.pokemon-card.type-ice {
-  background:
-    linear-gradient(135deg, #16303a 0%, #1a1b20 100%);
+.pokemon-card.type-water::before {
+  background: linear-gradient(135deg, #6390f0, transparent 55%);
 }
 
-.pokemon-card.type-fighting {
-  background:
-    linear-gradient(135deg, #311918 0%, #1a1b20 100%);
+.pokemon-card.type-grass::before {
+  background: linear-gradient(135deg, #7ac74c, transparent 55%);
 }
 
-.pokemon-card.type-poison {
-  background:
-    linear-gradient(135deg, #26182f 0%, #1a1b20 100%);
+.pokemon-card.type-electric::before {
+  background: linear-gradient(135deg, #f7d02c, transparent 55%);
 }
 
-.pokemon-card.type-ground {
-  background:
-    linear-gradient(135deg, #2c2318 0%, #1a1b20 100%);
+.pokemon-card.type-ice::before {
+  background: linear-gradient(135deg, #96d9d6, transparent 55%);
 }
 
-.pokemon-card.type-flying {
-  background:
-    linear-gradient(135deg, #1f2238 0%, #1a1b20 100%);
+.pokemon-card.type-fighting::before {
+  background: linear-gradient(135deg, #c22e28, transparent 55%);
 }
 
-.pokemon-card.type-psychic {
-  background:
-    linear-gradient(135deg, #35182b 0%, #1a1b20 100%);
+.pokemon-card.type-poison::before {
+  background: linear-gradient(135deg, #a33ea1, transparent 55%);
 }
 
-.pokemon-card.type-bug {
-  background:
-    linear-gradient(135deg, #232b14 0%, #1a1b20 100%);
+.pokemon-card.type-ground::before {
+  background: linear-gradient(135deg, #e2bf65, transparent 55%);
 }
 
-.pokemon-card.type-rock {
-  background:
-    linear-gradient(135deg, #2d281d 0%, #1a1b20 100%);
+.pokemon-card.type-flying::before {
+  background: linear-gradient(135deg, #a98ff3, transparent 55%);
 }
 
-.pokemon-card.type-ghost {
-  background:
-    linear-gradient(135deg, #20192f 0%, #1a1b20 100%);
+.pokemon-card.type-psychic::before {
+  background: linear-gradient(135deg, #f95587, transparent 55%);
 }
 
-.pokemon-card.type-dragon {
-  background:
-    linear-gradient(135deg, #191f38 0%, #1a1b20 100%);
+.pokemon-card.type-bug::before {
+  background: linear-gradient(135deg, #a6b91a, transparent 55%);
 }
 
-.pokemon-card.type-dark {
-  background:
-    linear-gradient(135deg, #181818 0%, #1a1b20 100%);
+.pokemon-card.type-rock::before {
+  background: linear-gradient(135deg, #b6a136, transparent 55%);
 }
 
-.pokemon-card.type-steel {
-  background:
-    linear-gradient(135deg, #20262d 0%, #1a1b20 100%);
+.pokemon-card.type-ghost::before {
+  background: linear-gradient(135deg, #735797, transparent 55%);
 }
 
-.pokemon-card.type-fairy {
-  background:
-    linear-gradient(135deg, #311f2d 0%, #1a1b20 100%);
+.pokemon-card.type-dragon::before {
+  background: linear-gradient(135deg, #6f35fc, transparent 55%);
+}
+
+.pokemon-card.type-dark::before {
+  background: linear-gradient(135deg, #705746, transparent 55%);
+}
+
+.pokemon-card.type-steel::before {
+  background: linear-gradient(135deg, #b7b7ce, transparent 55%);
+}
+
+.pokemon-card.type-fairy::before {
+  background: linear-gradient(135deg, #d685ad, transparent 55%);
 }
