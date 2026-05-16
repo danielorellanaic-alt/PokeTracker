@@ -277,10 +277,6 @@
   text-transform: capitalize;
 }
 
-.pokemon-card:not(.caught-card) {
-  filter: saturate(0.82) brightness(0.92);
-}
-
 .caught-icon-badge {
   width: 34px;
   height: 34px;
@@ -300,4 +296,7 @@
   background: rgba(74, 222, 128, 0.10);
 
   border: 1px solid rgba(74, 222, 128, 0.14);
+
+  font-size: 18px;
+  font-weight: 900;
 }
