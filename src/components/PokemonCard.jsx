@@ -1,5 +1,6 @@
 import "./PokemonCard.css";
 import { spriteOverrides } from "../data/spriteOverrides";
+import { typeIcons } from "../data/typeIcons";
 
 function hasSpecialForm(pokemon) {
   const id = pokemon.id;
@@ -19,9 +20,9 @@ function hasSpecialForm(pokemon) {
 }
 
 function getPokemonSprite(pokemon) {
-  const spriteId = 
+  const spriteId =
     spriteOverrides[pokemon.id] || pokemon.pokedex;
-  
+
   return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${spriteId}.png`;
 }
 
@@ -30,11 +31,10 @@ export default function PokemonCard({
   caught,
   toggle,
 }) {
-
   const mainType = pokemon.types?.[0] || "normal";
+  const pokemonTypes = pokemon.types || [];
 
   return (
-
     <div
       className={
         caught
@@ -43,13 +43,8 @@ export default function PokemonCard({
       }
       onClick={() => toggle(pokemon.id)}
     >
-
-      {/* izquierda */}
       <div className="pokemon-left">
-
-        {/* imagen */}
         <div className="pokemon-image-container">
-
           <img
             src={getPokemonSprite(pokemon)}
             alt={pokemon.name}
@@ -59,35 +54,43 @@ export default function PokemonCard({
                 : "pokemon-image"
             }
           />
-
         </div>
 
-        {/* info */}
         <div className="pokemon-info">
-
-          {/* numero */}
           <span className="pokemon-number">
             #{pokemon.pokedex}
           </span>
 
-          {/* nombre */}
           <h2>
             {pokemon.name}
           </h2>
 
-        </div>
+          <div className="pokemon-types">
+            {pokemonTypes.map((type) => (
+              <div
+                key={type}
+                className={`type-badge type-badge-${type}`}
+              >
+                <img
+                  src={typeIcons[type]}
+                  alt={type}
+                  className="type-icon"
+                />
 
+                <span>
+                  {type}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
 
-      {/* badge capturado */}
       {caught && (
         <div className="caught-badge">
           Capturado
         </div>
       )}
-
     </div>
-
   );
-
 }
