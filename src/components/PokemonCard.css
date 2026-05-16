@@ -4,6 +4,8 @@
 
   border-radius: 22px;
 
+  opacity: 0.92;
+
   background: #1a1b20;
 
   display: flex;
@@ -35,14 +37,16 @@
 }
 
 .pokemon-card.caught-card {
-  border-color: rgba(74,222,128,0.28);
+  border-color: rgba(74, 222, 128, 0.18);
+
+  opacity: 1;
 
   background:
     linear-gradient(
       90deg,
       #1a1b20 0%,
       #1a1b20 72%,
-      rgba(74,222,128,0.08) 100%
+      rgba(74, 222, 128, 0.06) 100%
     );
 }
 
@@ -133,14 +137,14 @@
 
 /* badge */
 .caught-badge {
-  background: rgba(74,222,128,0.14);
+  background: rgba(74, 222, 128, 0.10);
 
-  color: #4ade80;
+  color: #86efac;
 
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 850;
 
-  padding: 7px 12px;
+  padding: 6px 10px;
 
   border-radius: 999px;
 
@@ -148,7 +152,7 @@
 
   margin-left: 10px;
 
-  border: 1px solid rgba(74,222,128,0.18);
+  border: 1px solid rgba(74, 222, 128, 0.14);
 }
 
 /* ========================= */
