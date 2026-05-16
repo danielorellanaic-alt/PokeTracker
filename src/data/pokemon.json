@@ -82,7 +82,7 @@
 
   {
     "id": "0006GG",
-    "pokedex": 7,
+    "pokedex": 6,
     "name": "Gigamax Charizard",
     "form": "normal",
     "region": null,
@@ -1091,10 +1091,10 @@
   {
     "id": "0083G",
     "pokedex": 83,
-    "name": "'Farfetch'd Galarian'",
-    "form": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0083G.png'"
+    "name": "Farfetch'd Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0083G.png"
   },
 
   {
@@ -1145,783 +1145,783 @@
   {
     "id": "0088A",
     "pokedex": 88,
-    "name": "'Grimer Alolan'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0088A.png'"
+    "name": "Grimer Alolan",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0088A.png"
   },
 
   {
     "id": "0089",
     "pokedex": 89,
-    "name": "'Muk'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0089.png'"
+    "name": "Muk",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0089.png"
   },
 
   {
     "id": "0089A",
     "pokedex": 89,
-    "name": "'Muk Alolan'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0089A.png'"
+    "name": "Muk Alolan",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0089A.png"
   },
 
   {
     "id": "0090",
     "pokedex": 90,
-    "name": "'Shellder'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0090.png'"
+    "name": "Shellder",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0090.png"
   },
 
   {
     "id": "0091",
     "pokedex": 91,
-    "name": "'Cloyster'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0091.png'"
+    "name": "Cloyster",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0091.png"
   },
 
   {
     "id": "0092",
     "pokedex": 92,
-    "name": "'Gastly'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0092.png'"
+    "name": "Gastly",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0092.png"
   },
 
   {
     "id": "0093",
     "pokedex": 93,
-    "name": "'Haunter'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0093.png'"
+    "name": "Haunter",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0093.png"
   },
 
   {
     "id": "0094",
     "pokedex": 94,
-    "name": "'Gengar'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0094.png'"
+    "name": "Gengar",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0094.png"
   },
 
   {
     "id": "0094M",
     "pokedex": 94,
-    "name": "'Mega Gengar'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0094M.png'"
+    "name": "Mega Gengar",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0094M.png"
   },
 
   {
     "id": "0094GG",
     "pokedex": 94,
-    "name": "'Gigamax Gengar'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/gigamax/0094GG.png'"
+    "name": "Gigamax Gengar",
+    "form": "normal",
+    "region": null,
+    "image": "images/gigamax/0094GG.png"
   },
 
   {
     "id": "0095",
     "pokedex": 95,
-    "name": "'Onix'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0095.png'"
+    "name": "Onix",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0095.png"
   },
 
   {
     "id": "0096",
     "pokedex": 96,
-    "name": "'Drowzee'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0096.png'"
+    "name": "Drowzee",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0096.png"
   },
 
   {
     "id": "0097",
     "pokedex": 97,
-    "name": "'Hypno'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0097.png'"
+    "name": "Hypno",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0097.png"
   },
 
   {
     "id": "0098",
     "pokedex": 98,
-    "name": "'Krabby'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0098.png'"
+    "name": "Krabby",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0098.png"
   },
 
   {
     "id": "0099",
     "pokedex": 99,
-    "name": "'Kingler'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0099.png'"
+    "name": "Kingler",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0099.png"
   },
 
   {
     "id": "099GG",
     "pokedex": 99,
-    "name": "'Gigamax Kingler'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/gigamax/0099GG.png'"
+    "name": "Gigamax Kingler",
+    "form": "normal",
+    "region": null,
+    "image": "images/gigamax/0099GG.png"
   },
 
   {
     "id": "0100",
     "pokedex": 100,
-    "name": "'Voltorb'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0100.png'"
+    "name": "Voltorb",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0100.png"
   },
 
   {
     "id": "0100H",
     "pokedex": 100,
-    "name": "'Voltorb Hisuian'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0100H.png'"
+    "name": "Voltorb Hisuian",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0100H.png"
   },
 
   {
     "id": "0101",
     "pokedex": 101,
-    "name": "'Electrode'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0101.png'"
+    "name": "Electrode",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0101.png"
   },
 
   {
     "id": "0101H",
     "pokedex": 101,
-    "name": "'Electrode Hisuian'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0101H.png'"
+    "name": "Electrode Hisuian",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0101H.png"
   },
 
   {
     "id": "0102",
     "pokedex": 102,
-    "name": "'Exeggcute'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0102.png'"
+    "name": "Exeggcute",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0102.png"
   },
 
   {
     "id": "0103",
     "pokedex": 103,
-    "name": "'Exeggutor'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0103.png'"
+    "name": "Exeggutor",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0103.png"
   },
 
   {
     "id": "0103A",
     "pokedex": 103,
-    "name": "'Exeggutor Alolan'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0103A.png'"
+    "name": "Exeggutor Alolan",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0103A.png"
   },
 
   {
     "id": "0104",
     "pokedex": 104,
-    "name": "'Cubone'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0104.png'"
+    "name": "Cubone",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0104.png"
   },
 
   {
     "id": "0105",
     "pokedex": 105,
-    "name": "'Marowak'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0105.png'"
+    "name": "Marowak",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0105.png"
   },
 
   {
     "id": "0105A",
     "pokedex": 105,
-    "name": "'Marowak Alolan'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0105A.png'"
+    "name": "Marowak Alolan",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0105A.png"
   },
 
   {
     "id": "0106",
     "pokedex": 106,
-    "name": "'Hitmonlee'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0106.png'"
+    "name": "Hitmonlee",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0106.png"
   },
 
   {
     "id": "0107",
     "pokedex": 107,
-    "name": "'Hitmonchan'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0107.png'"
+    "name": "Hitmonchan",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0107.png"
   },
 
   {
     "id": "0108",
     "pokedex": 108,
-    "name": "'Lickitung'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0108.png'"
+    "name": "Lickitung",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0108.png"
   },
 
   {
     "id": "0109",
     "pokedex": 109,
-    "name": "'Koffing'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0109.png'"
+    "name": "Koffing",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0109.png"
   },
 
   {
     "id": "0110",
     "pokedex": 110,
-    "name": "'Weezing'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0110.png'"
+    "name": "Weezing",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0110.png"
   },
 
   {
     "id": "0110G",
     "pokedex": 110,
-    "name": "'Weezing Galarian'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0110G.png'"
+    "name": "Weezing Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0110G.png"
   },
 
   {
     "id": "0111",
     "pokedex": 111,
-    "name": "'Rhyhorn'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0111.png'"
+    "name": "Rhyhorn",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0111.png"
   },
 
   {
     "id": "0112",
     "pokedex": 112,
-    "name": "'Rhydon'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0112.png'"
+    "name": "Rhydon",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0112.png"
   },
 
   {
     "id": "0113",
     "pokedex": 113,
-    "name": "'Chansey'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0113.png'"
+    "name": "Chansey",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0113.png"
   },
 
   {
     "id": "0114",
     "pokedex": 114,
-    "name": "'Tangela'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0114.png'"
+    "name": "Tangela",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0114.png"
   },
 
   {
     "id": "0115",
     "pokedex": 115,
-    "name": "'Kangaskhan'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0115.png'"
+    "name": "Kangaskhan",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0115.png"
   },
 
   {
     "id": "0115M",
     "pokedex": 115,
-    "name": "'Mega Kangaskhan'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0115M.png'"
+    "name": "Mega Kangaskhan",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0115M.png"
   },
 
   {
     "id": "0116",
     "pokedex": 116,
-    "name": "'Horsea'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0116.png'"
+    "name": "Horsea",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0116.png"
   },
 
   {
     "id": "0117",
     "pokedex": 117,
-    "name": "'Seadra'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0117.png'"
+    "name": "Seadra",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0117.png"
   },
 
   {
     "id": "0118",
     "pokedex": 118,
-    "name": "'Goldeen'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0118.png'"
+    "name": "Goldeen",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0118.png"
   },
 
   {
     "id": "0119",
     "pokedex": 119,
-    "name": "'Seaking'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0119.png'"
+    "name": "Seaking",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0119.png"
   },
 
   {
     "id": "0120",
     "pokedex": 120,
-    "name": "'Staryu'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0120.png'"
+    "name": "Staryu",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0120.png"
   },
 
   {
     "id": "0121",
     "pokedex": 121,
-    "name": "'Starmie'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0121.png'"
+    "name": "Starmie",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0121.png"
   },
 
   {
     "id": "0122",
     "pokedex": 122,
-    "name": "'Mr. Mime'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0122.png'"
+    "name": "Mr. Mime",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0122.png"
   },
 
   {
     "id": "0122G",
     "pokedex": 122,
-    "name": "'Mr. Mime Galarian'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0122G.png'"
+    "name": "Mr. Mime Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0122G.png"
   },
 
   {
     "id": "0123",
     "pokedex": 123,
-    "name": "'Scyther'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0123.png'"
+    "name": "Scyther",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0123.png"
   },
 
   {
     "id": "0124",
     "pokedex": 124,
-    "name": "'Jynx'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0124.png'"
+    "name": "Jynx",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0124.png"
   },
 
   {
     "id": "0125",
     "pokedex": 125,
-    "name": "'Electabuzz'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0125.png'"
+    "name": "Electabuzz",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0125.png"
   },
 
   {
     "id": "0126",
     "pokedex": 126,
-    "name": "'Magmar'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0126.png'"
+    "name": "Magmar",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0126.png"
   },
 
   {
     "id": "0127",
     "pokedex": 127,
-    "name": "'Pinsir'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0127.png'"
+    "name": "Pinsir",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0127.png"
   },
 
   {
     "id": "0127M",
     "pokedex": 127,
-    "name": "'Mega Pinsir'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0127M.png'"
+    "name": "Mega Pinsir",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0127M.png"
   },
 
   {
     "id": "0128",
     "pokedex": 128,
-    "name": "'Tauros'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0128.png'"
+    "name": "Tauros",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0128.png"
   },
 
   {
     "id": "0128P1",
     "pokedex": 128,
-    "name": "'Tauros Paldean Aqua Breed'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0128P1.png'"
+    "name": "Tauros Paldean Aqua Breed",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0128P1.png"
   },
 
   {
     "id": "0128P2",
     "pokedex": 128,
-    "name": "'Tauros Paldean Blaze Breed'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0128P2.png'"
+    "name": "Tauros Paldean Blaze Breed",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0128P2.png"
   },
 
   {
     "id": "0128P3",
     "pokedex": 128,
-    "name": "'Tauros Paldean Combat Breed'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0128P3.png'"
+    "name": "Tauros Paldean Combat Breed",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0128P3.png"
   },
 
   {
     "id": "0129",
     "pokedex": 129,
-    "name": "'Magikarp'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0129.png'"
+    "name": "Magikarp",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0129.png"
   },
 
   {
     "id": "0130",
     "pokedex": 130,
-    "name": "'Gyarados'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0130.png'"
+    "name": "Gyarados",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0130.png"
   },
 
   {
     "id": "0130M",
     "pokedex": 130,
-    "name": "'Mega Gyarados'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0130M.png'"
+    "name": "Mega Gyarados",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0130M.png"
   },
 
   {
     "id": "0131",
     "pokedex": 131,
-    "name": "'Lapras'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0131.png'"
+    "name": "Lapras",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0131.png"
   },
 
   {
     "id": "0131GG",
     "pokedex": 131,
-    "name": "'Lapras Gigamax'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0131GG.png'"
+    "name": "Lapras Gigamax",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0131GG.png"
   },
 
   {
     "id": "0132",
     "pokedex": 132,
-    "name": "'Ditto'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0132.png'"
+    "name": "Ditto",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0132.png"
   },
 
   {
     "id": "0133",
     "pokedex": 133,
-    "name": "'Eevee'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0133.png'"
+    "name": "Eevee",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0133.png"
   },
 
   {
     "id": "0133GG",
     "pokedex": 133,
-    "name": "'Eevee Gigamax'",
-    "'form'": "'regional'",
-    "'region'": null,
-    "'image'": "'images/regional/0133GG.png'"
+    "name": "Eevee Gigamax",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0133GG.png"
   },
 
   {
     "id": "0135",
     "pokedex": 135,
-    "name": "'Jolteon'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0135.png'"
+    "name": "Jolteon",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0135.png"
   },
 
   {
     "id": "0136",
     "pokedex": 136,
-    "name": "'Flareon'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0136.png'"
+    "name": "Flareon",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0136.png"
   },
 
   {
     "id": "0137",
     "pokedex": 137,
-    "name": "'Porygon'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0137.png'"
+    "name": "Porygon",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0137.png"
   },
 
   {
     "id": "0138",
     "pokedex": 138,
-    "name": "'Omanyte'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0138.png'"
+    "name": "Omanyte",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0138.png"
   },
 
   {
     "id": "0139",
     "pokedex": 139,
-    "name": "'Omastar'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0139.png'"
+    "name": "Omastar",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0139.png"
   },
 
   {
     "id": "0140",
     "pokedex": 140,
-    "name": "'Kabuto'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0140.png'"
+    "name": "Kabuto",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0140.png"
   },
 
   {
     "id": "0141",
     "pokedex": 141,
-    "name": "'Kabutops'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0141.png'"
+    "name": "Kabutops",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0141.png"
   },
 
   {
     "id": "0142",
     "pokedex": 142,
-    "name": "'Aerodactyl'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0142.png'"
+    "name": "Aerodactyl",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0142.png"
   },
 
   {
     "id": "0142M",
     "pokedex": 142,
-    "name": "'Mega Aerodactyl'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0142M.png'"
+    "name": "Mega Aerodactyl",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0142M.png"
   },
 
   {
     "id": "0143",
     "pokedex": 143,
-    "name": "'Snorlax'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0143.png'"
+    "name": "Snorlax",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0143.png"
   },
 
   {
     "id": "0144",
     "pokedex": 144,
-    "name": "'Articuno'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0144.png'"
+    "name": "Articuno",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0144.png"
   },
 
   {
     "id": "0144G",
     "pokedex": 144,
-    "name": "'Articuno Galarian'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0144G.png'"
+    "name": "Articuno Galarian",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0144G.png"
   },
 
   {
     "id": "0145",
     "pokedex": 145,
-    "name": "'Zapdos'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0145.png'"
+    "name": "Zapdos",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0145.png"
   },
 
   {
     "id": "0145G",
     "pokedex": 145,
-    "name": "'Zapdos Galarian'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0145G.png'"
+    "name": "Zapdos Galarian",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0145G.png"
   },
 
   {
     "id": "0146",
     "pokedex": 146,
-    "name": "'Moltres'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0146.png'"
+    "name": "Moltres",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0146.png"
   },
 
   {
     "id": "0146G",
     "pokedex": 147,
-    "name": "'Moltres Galarian'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0146G.png'"
+    "name": "Moltres Galarian",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0146G.png"
   },
 
   {
     "id": "0147",
     "pokedex": 147,
-    "name": "'Dratini'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0147.png'"
+    "name": "Dratini",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0147.png"
   },
 
   {
     "id": "0148",
     "pokedex": 148,
-    "name": "'Dragonair'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0148.png'"
+    "name": "Dragonair",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0148.png"
   },
 
   {
     "id": "0149",
     "pokedex": 149,
-    "name": "'Dragonite'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0149.png'"
+    "name": "Dragonite",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0149.png"
   },
 
   {
     "id": "0150",
     "pokedex": 150,
-    "name": "'Mewtwo'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0150.png'"
+    "name": "Mewtwo",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0150.png"
   },
 
   {
     "id": "0150M1",
     "pokedex": 150,
-    "name": "'Mega Mewtwo X'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0150M1.png'"
+    "name": "Mega Mewtwo X",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0150M1.png"
   },
 
   {
     "id": "0150M2",
     "pokedex": 150,
-    "name": "'Mega Mewtwo Y'",
-    "'form'": "'mega'",
-    "'region'": null,
-    "'image'": "'images/normal/0150M2.png'"
+    "name": "Mega Mewtwo Y",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0150M2.png"
   },
 
   {
     "id": "0151",
     "pokedex": 151,
-    "name": "'Mew'",
-    "'form'": "'normal'",
-    "'region'": null,
-    "'image'": "'images/normal/0151.png'"
+    "name": "Mew",
+    "form": "normal",
+    "region": null,
+    "image": "images/normal/0151.png"
   }
 ]
