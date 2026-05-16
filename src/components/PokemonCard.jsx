@@ -88,8 +88,8 @@ export default function PokemonCard({
       </div>
 
       {caught && (
-        <div className="caught-icon-badge" aria-label="Capturado">
-          <span classname="pokeball-minimal" />
+        <div className="caught-icon-badge">
+          ✓
         </div>
       )}
     </div>
