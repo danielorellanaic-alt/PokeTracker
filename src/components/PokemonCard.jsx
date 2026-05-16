@@ -1,6 +1,7 @@
 import "./PokemonCard.css";
 import { spriteOverrides } from "../data/spriteOverrides";
 import { typeIcons } from "../data/typeIcons";
+import { typeTranslations } from "../data/typeTranslations";
 
 function hasSpecialForm(pokemon) {
   const id = pokemon.id;
@@ -78,7 +79,7 @@ export default function PokemonCard({
                 />
 
                 <span>
-                  {type}
+                  {typeTranslations[type]}
                 </span>
               </div>
             ))}
