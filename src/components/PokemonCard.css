@@ -4,8 +4,6 @@
 
   border-radius: 22px;
 
-  opacity: 0.85;
-
   background: #1a1b20;
 
   display: flex;
@@ -170,7 +168,7 @@
   position: absolute;
   inset: 0;
 
-  opacity: 0.28;
+  opacity: 0.16;
 
   pointer-events: none;
 }
@@ -297,4 +295,8 @@
   font-weight: 700;
 
   text-transform: capitalize;
+}
+
+.pokemon-card:not(.caught-card) {
+  filter: saturate(0.82) brightness(0.92);
 }
