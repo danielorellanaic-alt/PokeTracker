@@ -2,6 +2,9 @@ import "./PokemonCard.css";
 import { spriteOverrides } from "../data/spriteOverrides";
 import { typeIcons } from "../data/typeIcons";
 import { typeTranslations } from "../data/typeTranslations";
+import Icon from "@mdi/react";
+import { mdiPokeball } from "@mdi/js";
+
 
 function hasSpecialForm(pokemon) {
   const id = pokemon.id;
@@ -88,8 +91,8 @@ export default function PokemonCard({
       </div>
 
       {caught && (
-        <div className="caught-badge">
-          Capturado
+        <div className="caught-icon-badge">
+          <Icon path={mdiPokeball} size={0.9} />
         </div>
       )}
     </div>

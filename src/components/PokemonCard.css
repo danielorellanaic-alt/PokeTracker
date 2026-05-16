@@ -76,8 +76,8 @@
 
 /* sprite */
 .pokemon-image {
-  width: 72px;
-  height: 72px;
+  width: 68px;
+  height: 68px;
 
   object-fit: contain;
 
@@ -299,4 +299,25 @@
 
 .pokemon-card:not(.caught-card) {
   filter: saturate(0.82) brightness(0.92);
+}
+
+.caught-icon-badge {
+  width: 34px;
+  height: 34px;
+
+  border-radius: 999px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-shrink: 0;
+
+  margin-left: 10px;
+
+  color: #86efac;
+
+  background: rgba(74, 222, 128, 0.10);
+
+  border: 1px solid rgba(74, 222, 128, 0.14);
 }
