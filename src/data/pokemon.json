@@ -629,7 +629,8 @@
     "region": null,
     "image": "images/normal/0036.png",
     "types": [
-      "fairy"
+      "fairy",
+      "flying"
     ]
   },
   {
@@ -1342,7 +1343,6 @@
     "region": null,
     "image": "images/regional/0079G.png",
     "types": [
-      "water",
       "psychic"
     ]
   },
@@ -2575,7 +2575,8 @@
     "region": null,
     "image": "images/normal/0154M.png",
     "types": [
-      "grass"
+      "grass",
+      "fairy"
     ]
   },
   {
@@ -2619,7 +2620,8 @@
     "region": null,
     "image": "images/regional/0157H.png",
     "types": [
-      "fire"
+      "fire",
+      "ghost"
     ]
   },
   {
@@ -2663,7 +2665,8 @@
     "region": null,
     "image": "images/normal/0160M.png",
     "types": [
-      "water"
+      "water",
+      "dragon"
     ]
   },
   {
@@ -2918,7 +2921,8 @@
     "region": null,
     "image": "images/normal/0181M.png",
     "types": [
-      "electric"
+      "electric",
+      "dragon"
     ]
   },
   {
@@ -3079,7 +3083,7 @@
     "region": null,
     "image": "images/regional/0194P.png",
     "types": [
-      "poison",
+      "water",
       "ground"
     ]
   },
@@ -3487,8 +3491,7 @@
     "region": null,
     "image": "images/regional/0222G.png",
     "types": [
-      "ghost",
-      "poison"
+      "ghost"
     ]
   },
   {
@@ -3547,9 +3550,9 @@
     "types": [
       "steel",
       "flying"
-     ]
-   },
-   {
+    ]
+  },
+  {
     "id": "0227M",
     "pokedex": 227,
     "name": "Mega Skarmory",
@@ -3559,8 +3562,8 @@
     "types": [
       "steel",
       "flying"
-     ]
-   },
+    ]
+  },
   {
     "id": "0228",
     "pokedex": 228,
@@ -3583,8 +3586,8 @@
     "types": [
       "dark",
       "fire"
-     ]
-   },
+    ]
+  },
   {
     "id": "0229M",
     "pokedex": 229,
@@ -3595,8 +3598,8 @@
     "types": [
       "dark",
       "fire"
-     ]
-   },
+    ]
+  },
   {
     "id": "0230",
     "pokedex": 230,
