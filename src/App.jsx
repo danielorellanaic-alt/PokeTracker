@@ -57,29 +57,31 @@ export default function App() {
     <div className="app">
       {activePage === "pokedex" && (
         <>
-          <Header search={search} setSearch={setSearch} />
+          <div className="pokedex-sticky-header">
+            <Header search={search} setSearch={setSearch} />
 
-          <div className="filter-buttons">
-            <button
-              className={filter === "all" ? "active" : ""}
-              onClick={() => setFilter("all")}
-            >
-              Todos
-            </button>
+            <div className="filter-buttons">
+              <button
+                className={filter === "all" ? "active" : ""}
+                onClick={() => setFilter("all")}
+              >
+                Todos
+              </button>
 
-            <button
-              className={filter === "caught" ? "active" : ""}
-              onClick={() => setFilter("caught")}
-            >
-              Capturados
-            </button>
+              <button
+                className={filter === "caught" ? "active" : ""}
+                onClick={() => setFilter("caught")}
+              >
+                Capturados
+              </button>
 
-            <button
-              className={filter === "uncaught" ? "active" : ""}
-              onClick={() => setFilter("uncaught")}
-            >
-              Sin capturar
-            </button>
+              <button
+                className={filter === "uncaught" ? "active" : ""}
+                onClick={() => setFilter("uncaught")}
+              >
+                Sin capturar
+              </button>
+            </div>
           </div>
 
           <div className="pokemon-list">

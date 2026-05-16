@@ -134,3 +134,12 @@
   background: #ef5350;
   color: white;
 }
+
+.pokedex-sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+
+  background: #1e1e1e;
+  padding-bottom: 12px;
+}
