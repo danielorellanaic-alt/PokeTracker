@@ -2,23 +2,26 @@ import "./PokemonCard.css";
 import { spriteOverrides } from "../data/spriteOverrides";
 
 function hasSpecialForm(pokemon) {
+  const id = pokemon.id;
+
   return (
-    pokemon.id.endsWith("M") ||
-    pokemon.id.endsWith("M1") ||
-    pokemon.id.endsWith("M2") ||
-    pokemon.id.endsWith("GG") ||
-    pokemon.id.endsWith("A") ||
-    pokemon.id.endsWith("G") ||
-    pokemon.id.endsWith("H") ||
-    pokemon.id.endsWith("P1") ||
-    pokemon.id.endsWith("P2") ||
-    pokemon.id.endsWith("P3")
+    id.endsWith("M1") ||
+    id.endsWith("M2") ||
+    id.endsWith("GG") ||
+    id.endsWith("A") ||
+    id.endsWith("G") ||
+    id.endsWith("H") ||
+    id.endsWith("P1") ||
+    id.endsWith("P2") ||
+    id.endsWith("P3") ||
+    id.endsWith("M")
   );
 }
 
 function getPokemonSprite(pokemon) {
-  const spriteId = spriteOverrides[pokemon.id] || pokemon.pokedex;
-
+  const spriteId = 
+    spriteOverrides[pokemon.id] || pokemon.pokedex;
+  
   return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${spriteId}.png`;
 }
 
