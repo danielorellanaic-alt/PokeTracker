@@ -90,7 +90,7 @@ export default function PokemonCard({
 
       {caught && (
         <div className="caught-icon-badge">
-          <Icon path={mdiPokeballOutline} size={0.9} />
+          <Icon path={mdiCheckCircle} size={0.9} />
         </div>
       )}
     </div>
