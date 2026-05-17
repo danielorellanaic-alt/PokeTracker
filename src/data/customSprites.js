@@ -10,4 +10,5 @@ export const customSprites = {
   "0413TW": wormadamTrash,
   "0026M1": megaraichux,
   "0026M2": megaraichuy,
+  "0412TB": burmytrash,
 };
