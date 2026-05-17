@@ -3633,5 +3633,733 @@
     "types": [
       "ground"
     ]
+  },
+  {
+    "id": "0233",
+    "pokedex": 233,
+    "name": "Porygon2",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0233.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0234",
+    "pokedex": 234,
+    "name": "Stantler",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0234.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0235",
+    "pokedex": 235,
+    "name": "Smeargle",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0235.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0236",
+    "pokedex": 236,
+    "name": "Tyrogue",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0236.png",
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "id": "0237",
+    "pokedex": 237,
+    "name": "Hitmontop",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0237.png",
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "id": "0238",
+    "pokedex": 238,
+    "name": "Smoochum",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0238.png",
+    "types": [
+      "ice",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0239",
+    "pokedex": 239,
+    "name": "Elekid",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0239.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0240",
+    "pokedex": 240,
+    "name": "Magby",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0240.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0241",
+    "pokedex": 241,
+    "name": "Miltank",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0241.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0242",
+    "pokedex": 242,
+    "name": "Blissey",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0242.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0243",
+    "pokedex": 243,
+    "name": "Raikou",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0243.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0244",
+    "pokedex": 244,
+    "name": "Entei",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0244.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0245",
+    "pokedex": 245,
+    "name": "Suicune",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0245.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0246",
+    "pokedex": 246,
+    "name": "Larvitar",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0246.png",
+    "types": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "id": "0247",
+    "pokedex": 247,
+    "name": "Pupitar",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0247.png",
+    "types": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "id": "0248",
+    "pokedex": 248,
+    "name": "Tyranitar",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0248.png",
+    "types": [
+      "rock",
+      "dark"
+    ]
+  },
+  {
+    "id": "0248M",
+    "pokedex": 248,
+    "name": "Mega Tyranitar",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0248M.png",
+    "types": [
+      "rock",
+      "dark"
+    ]
+  },
+  {
+    "id": "0249",
+    "pokedex": 249,
+    "name": "Lugia",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0249.png",
+    "types": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "id": "0250",
+    "pokedex": 250,
+    "name": "Ho-Oh",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0250.png",
+    "types": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "id": "0251",
+    "pokedex": 251,
+    "name": "Celebi",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0251.png",
+    "types": [
+      "psychic",
+      "grass"
+    ]
+  },
+  {
+    "id": "0252",
+    "pokedex": 252,
+    "name": "Treecko",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0252.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0253",
+    "pokedex": 253,
+    "name": "Grovyle",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0253.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0254",
+    "pokedex": 254,
+    "name": "Sceptile",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0254.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0254M",
+    "pokedex": 254,
+    "name": "Mega Sceptile",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0254M.png",
+    "types": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0255",
+    "pokedex": 255,
+    "name": "Torchic",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0255.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0256",
+    "pokedex": 256,
+    "name": "Combusken",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0256.png",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0257",
+    "pokedex": 257,
+    "name": "Blaziken",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0257.png",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0257M",
+    "pokedex": 257,
+    "name": "Mega Blaziken",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0257M.png",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0258",
+    "pokedex": 258,
+    "name": "Mudkip",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0258.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0259",
+    "pokedex": 259,
+    "name": "Marshtomp",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0259.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0260",
+    "pokedex": 260,
+    "name": "Swampert",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0260.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0260M",
+    "pokedex": 260,
+    "name": "Mega Swampert",
+    "form": "mega",
+    "region": null,
+    "image": "images/normal/0260M.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0261",
+    "pokedex": 261,
+    "name": "Poochyena",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0261.png",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": "0262",
+    "pokedex": 262,
+    "name": "Mightyena",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0262.png",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": "0263",
+    "pokedex": 263,
+    "name": "Zigzagoon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0263.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0263G",
+    "pokedex": 263,
+    "name": "Zigzagoon Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0263G.png",
+    "types": [
+      "dark",
+      "normal"
+    ]
+  },
+  {
+    "id": "0264",
+    "pokedex": 264,
+    "name": "Linoone",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0264.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0264G",
+    "pokedex": 264,
+    "name": "Linoone Galarian",
+    "form": "regional",
+    "region": null,
+    "image": "images/regional/0264G.png",
+    "types": [
+      "dark",
+      "normal"
+    ]
+  },
+  {
+    "id": "0265",
+    "pokedex": 265,
+    "name": "Wurmple",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0265.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0266",
+    "pokedex": 266,
+    "name": "Silcoon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0266.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0267",
+    "pokedex": 267,
+    "name": "Beautifly",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0267.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0268",
+    "pokedex": 268,
+    "name": "Cascoon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0268.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0269",
+    "pokedex": 269,
+    "name": "Dustox",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0269.png",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "id": "0270",
+    "pokedex": 270,
+    "name": "Lotad",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0270.png",
+    "types": [
+      "water",
+      "grass"
+    ]
+  },
+  {
+    "id": "0271",
+    "pokedex": 271,
+    "name": "Lombre",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0271.png",
+    "types": [
+      "water",
+      "grass"
+    ]
+  },
+  {
+    "id": "0272",
+    "pokedex": 272,
+    "name": "Ludicolo",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0272.png",
+    "types": [
+      "water",
+      "grass"
+    ]
+  },
+  {
+    "id": "0273",
+    "pokedex": 273,
+    "name": "Seedot",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0273.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0274",
+    "pokedex": 274,
+    "name": "Nuzleaf",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0274.png",
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "id": "0275",
+    "pokedex": 275,
+    "name": "Shiftry",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0275.png",
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "id": "0276",
+    "pokedex": 276,
+    "name": "Taillow",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0276.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0277",
+    "pokedex": 277,
+    "name": "Swellow",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0277.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0278",
+    "pokedex": 278,
+    "name": "Wingull",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0278.png",
+    "types": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "id": "0279",
+    "pokedex": 279,
+    "name": "Pelipper",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0279.png",
+    "types": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "id": "0280",
+    "pokedex": 280,
+    "name": "Ralts",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0280.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0281",
+    "pokedex": 281,
+    "name": "Kirlia",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0281.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0282",
+    "pokedex": 282,
+    "name": "Gardevoir",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0282.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0282M",
+    "pokedex": 282,
+    "name": "Mega Gardevoir",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0282M.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0283",
+    "pokedex": 283,
+    "name": "Surskit",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0283.png",
+    "types": [
+      "bug",
+      "water"
+    ]
+  },
+  {
+    "id": "0284",
+    "pokedex": 284,
+    "name": "Masquerain",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0284.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0285",
+    "pokedex": 285,
+    "name": "Shroomish",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0285.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0286",
+    "pokedex": 286,
+    "name": "Breloom",
+    "form": "",
+    "region": null,
+    "image": "",
+    "types": [
+      "grass",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0287",
+    "pokedex": 287,
+    "name": "Slakoth",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0287.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0288",
+    "pokedex": 288,
+    "name": "Vigoroth",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0288.png",
+    "types": [
+      "normal"
+    ]
   }
 ]
