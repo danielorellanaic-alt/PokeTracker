@@ -5816,5 +5816,452 @@
       "grass",
       "ground"
     ]
+  },
+  {
+    "id": "0390",
+    "pokedex": 390,
+    "name": "Chimchar",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0390.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0391",
+    "pokedex": 391,
+    "name": "Monferno",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0391.png",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0392",
+    "pokedex": 392,
+    "name": "Infernape",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0392.png",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0393",
+    "pokedex": 393,
+    "name": "Piplup",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0393.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0394",
+    "pokedex": 394,
+    "name": "Prinplup",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0394.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0395",
+    "pokedex": 395,
+    "name": "Empoleon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0395.png",
+    "types": [
+      "water",
+      "steel"
+    ]
+  },
+  {
+    "id": "0396",
+    "pokedex": 396,
+    "name": "Starly",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0396.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0397",
+    "pokedex": 397,
+    "name": "Staravia",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0397.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0398",
+    "pokedex": 398,
+    "name": "Staraptor",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0398.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0398M",
+    "pokedex": 398,
+    "name": "Mega Staraptor",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0398M.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0399",
+    "pokedex": 399,
+    "name": "Bidoof",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0399.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0400",
+    "pokedex": 400,
+    "name": "Bibarel",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0400.png",
+    "types": [
+      "normal",
+      "water"
+    ]
+  },
+  {
+    "id": "0401",
+    "pokedex": 401,
+    "name": "Kricketot",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0401.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0402",
+    "pokedex": 402,
+    "name": "Kricketune",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0402.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0403",
+    "pokedex": 403,
+    "name": "Shinx",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0403.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0404",
+    "pokedex": 404,
+    "name": "Luxio",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0404.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0405",
+    "pokedex": 405,
+    "name": "Luxray",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0405.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0406",
+    "pokedex": 406,
+    "name": "Budew",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0406.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "id": "0407",
+    "pokedex": 407,
+    "name": "Roserade",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0407.png",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "id": "0408",
+    "pokedex": 408,
+    "name": "Cranidos",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0408.png",
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "id": "0409",
+    "pokedex": 409,
+    "name": "Rampardos",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0409.png",
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "id": "0410",
+    "pokedex": 410,
+    "name": "Shieldon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0410.png",
+    "types": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "id": "0411",
+    "pokedex": 411,
+    "name": "Bastiodon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0411.png",
+    "types": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "id": "0412PB",
+    "pokedex": 412,
+    "name": "Burmy Plant Cloak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0412PB.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0412SB",
+    "pokedex": 412,
+    "name": "Burmy Sandy Cloak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0412SB.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0412TB",
+    "pokedex": 412,
+    "name": "Burmy Trash Cloak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0412TB.png",
+    "types": [
+      "bug"
+    ]
+  },
+  {
+    "id": "0413PW",
+    "pokedex": 413,
+    "name": "Wormadam Plant Cloak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0413PW.png",
+    "types": [
+      "bug",
+      "grass"
+    ]
+  },
+  {
+    "id": "0413SW",
+    "pokedex": 413,
+    "name": "Wormadam Sandy Cloak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0413SW.png",
+    "types": [
+      "bug",
+      "ground"
+    ]
+  },
+  {
+    "id": "0413TW",
+    "pokedex": 413,
+    "name": "Wormadam Trash Cloak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0413TW.png",
+    "types": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "id": "0414",
+    "pokedex": 414,
+    "name": "Mothim",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0414.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0415",
+    "pokedex": 415,
+    "name": "Combee",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0415.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0416",
+    "pokedex": 416,
+    "name": "Vespiquen",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0416.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0417",
+    "pokedex": 417,
+    "name": "Pachirisu",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0417.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0418",
+    "pokedex": 418,
+    "name": "Buizel",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0418.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0419",
+    "pokedex": 419,
+    "name": "Floatzel",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0419.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0420",
+    "pokedex": 420,
+    "name": "Cherubi",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0420.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0421OC",
+    "pokedex": 421,
+    "name": "Cherrim Overcast Form",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0421OC.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0421SS",
+    "pokedex": 421,
+    "name": "Cherrim Sunshine Form",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0421SS.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0422",
+    "pokedex": 422,
+    "name": "Shellos",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0422.png",
+    "types": [
+      "water"
+    ]
   }
 ]
