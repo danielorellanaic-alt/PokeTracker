@@ -2,6 +2,7 @@ import "./PokemonCard.css";
 import { spriteOverrides } from "../data/spriteOverrides";
 import { typeIcons } from "../data/typeIcons";
 import { typeTranslations } from "../data/typeTranslations";
+import { customSprites } from "../data/customSprites";
 
 function hasSpecialForm(pokemon) {
   const id = pokemon.id;
@@ -82,6 +83,11 @@ function hasSpecialForm(pokemon) {
 }
 
 function getPokemonSprite(pokemon) {
+
+  if (customSprites[pokemon.id]) {
+    return customSprites[pokemon.id];
+  }
+
   const spriteId =
     spriteOverrides[pokemon.id] || pokemon.pokedex;
 
