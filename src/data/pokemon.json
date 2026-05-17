@@ -5756,7 +5756,7 @@
     "name": "Deoxys Attack",
     "form": "",
     "region": null,
-    "image": "images/normal/0386AT.png",
+    "image": "images/normal/10001.png",
     "types": [
       "psychic"
     ]
@@ -5767,7 +5767,7 @@
     "name": "Deoxys Defense",
     "form": "",
     "region": null,
-    "image": "images/normal/0386DF.png",
+    "image": "images/normal/10002.png",
     "types": [
       "psychic"
     ]
@@ -5778,7 +5778,7 @@
     "name": "Deoxys Speed",
     "form": "",
     "region": null,
-    "image": "images/normal/0386SP.png",
+    "image": "images/normal/10003.png",
     "types": [
       "psychic"
     ]
