@@ -72,10 +72,10 @@ function hasSpecialForm(pokemon) {
     name.includes("dawn") ||
     name.includes(" dusk") ||
     name.includes("solo") ||
-    name.includes("land") ||
+    name.includes(" land") ||
     name.includes("west") ||
     name.includes("east") ||
-    name.includes("sky") ||
+    name.includes(" sky") ||
 
     name.includes("alola") ||
     name.includes("pa'u")
