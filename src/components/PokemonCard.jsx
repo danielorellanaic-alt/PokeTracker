@@ -17,8 +17,14 @@ function hasSpecialForm(pokemon) {
     id.endsWith("P1") ||
     id.endsWith("P2") ||
     id.endsWith("P3") ||
+    id.endsWith("AT") ||
+    id.endsWith("DF") ||
+    id.endsWith("SP") ||
     id.endsWith("M") ||
     id.endsWith("Z") ||
+    id.endsWith("S") ||
+    id.endsWith("R") ||
+    id.endsWith("SN") ||
 
     name.includes("mega") ||
     name.includes("gigamax") ||

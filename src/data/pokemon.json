@@ -5204,12 +5204,12 @@
     ]
   },
   {
-    "id": "0351H",
+    "id": "0351SN",
     "pokedex": 351,
     "name": "Castform Snowy",
     "form": "weather",
     "region": null,
-    "image": "images/weather/0351H.png",
+    "image": "images/weather/0351SN.png",
     "types": [
       "ice"
     ]
@@ -5751,34 +5751,34 @@
     ]
   },
   {
-    "id": "0386A",
+    "id": "0386AT",
     "pokedex": 386,
     "name": "Deoxys Attack",
     "form": "",
     "region": null,
-    "image": "images/normal/0386A.png",
+    "image": "images/normal/0386AT.png",
     "types": [
       "psychic"
     ]
   },
   {
-    "id": "0386D",
+    "id": "0386DF",
     "pokedex": 386,
     "name": "Deoxys Defense",
     "form": "",
     "region": null,
-    "image": "images/normal/0386D.png",
+    "image": "images/normal/0386DF.png",
     "types": [
       "psychic"
     ]
   },
   {
-    "id": "0386S",
+    "id": "0386SP",
     "pokedex": 386,
     "name": "Deoxys Speed",
     "form": "",
     "region": null,
-    "image": "images/normal/0386S.png",
+    "image": "images/normal/0386SP.png",
     "types": [
       "psychic"
     ]
