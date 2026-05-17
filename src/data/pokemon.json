@@ -5187,7 +5187,7 @@
     "name": "Castform Sunny",
     "form": "weather",
     "region": null,
-    "image": "images/weather/0351S.png",
+    "image": "images/weather/10013.png",
     "types": [
       "fire"
     ]
@@ -5198,7 +5198,7 @@
     "name": "Castform Rainy",
     "form": "weather",
     "region": null,
-    "image": "images/weather/0351R.png",
+    "image": "images/weather/10014.png",
     "types": [
       "water"
     ]
@@ -5209,7 +5209,7 @@
     "name": "Castform Snowy",
     "form": "weather",
     "region": null,
-    "image": "images/weather/0351SN.png",
+    "image": "images/weather/10015.png",
     "types": [
       "ice"
     ]
@@ -6088,7 +6088,7 @@
     "name": "Burmy Plant Cloak",
     "form": "",
     "region": null,
-    "image": "/images/normal/0412PB.png",
+    "image": "/images/normal/10004.png",
     "types": [
       "bug"
     ]
@@ -6099,7 +6099,7 @@
     "name": "Burmy Sandy Cloak",
     "form": "",
     "region": null,
-    "image": "/images/normal/0412SB.png",
+    "image": "/images/normal/10005.png",
     "types": [
       "bug"
     ]
@@ -6110,7 +6110,7 @@
     "name": "Burmy Trash Cloak",
     "form": "",
     "region": null,
-    "image": "/images/normal/0412TB.png",
+    "image": "/images/normal/10006.png",
     "types": [
       "bug"
     ]
@@ -6121,7 +6121,7 @@
     "name": "Wormadam Plant Cloak",
     "form": "",
     "region": null,
-    "image": "/images/normal/0413PW.png",
+    "image": "/images/normal/10007.png",
     "types": [
       "bug",
       "grass"
@@ -6133,7 +6133,7 @@
     "name": "Wormadam Sandy Cloak",
     "form": "",
     "region": null,
-    "image": "/images/normal/0413SW.png",
+    "image": "/images/normal/10008.png",
     "types": [
       "bug",
       "ground"
@@ -6145,7 +6145,7 @@
     "name": "Wormadam Trash Cloak",
     "form": "",
     "region": null,
-    "image": "/images/normal/0413TW.png",
+    "image": "/images/normal/10009.png",
     "types": [
       "bug",
       "steel"
