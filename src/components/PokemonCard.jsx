@@ -18,6 +18,7 @@ function hasSpecialForm(pokemon) {
     id.endsWith("P2") ||
     id.endsWith("P3") ||
     id.endsWith("M") ||
+    id.endsWith("Z") ||
 
     name.includes("mega") ||
     name.includes("gigamax") ||
@@ -33,7 +34,12 @@ function hasSpecialForm(pokemon) {
     name.includes("sky") ||
     name.includes("land") ||
     name.includes("therian") ||
-    name.includes("incarnate")
+    name.includes("incarnate") ||
+    name.includes("primal") ||
+    name.includes("sunny") ||
+    name.includes("rainy") ||
+    name.includes("snowy") ||
+    name.includes("east") 
   );
 }
 
