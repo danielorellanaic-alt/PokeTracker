@@ -272,7 +272,7 @@
     "name": "Mega Beedrill",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0015.png",
+    "image": "images/normal/0015M.png",
     "types": [
       "bug",
       "poison"
@@ -320,7 +320,7 @@
     "name": "Mega Pidgeot",
     "form": "regional",
     "region": null,
-    "image": "images/normal/0018.png",
+    "image": "images/normal/0018M.png",
     "types": [
       "normal",
       "flying"
@@ -469,7 +469,7 @@
     "name": "Mega Raichu X",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0026.png",
+    "image": "images/normal/0026M1.png",
     "types": [
       "electric"
     ]
@@ -480,7 +480,7 @@
     "name": "Mega Raichu Y",
     "form": "normal",
     "region": null,
-    "image": "images/normal/0026.png",
+    "image": "images/normal/0026M2.png",
     "types": [
       "electric"
     ]
