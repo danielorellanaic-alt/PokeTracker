@@ -65,7 +65,7 @@ function hasSpecialForm(pokemon) {
     name.includes("baile") ||
     name.includes("sensu") ||
 
-    name.includes("mega") ||
+    name.includes("mega ") ||
     name.includes("gmax") ||
     name.includes("speed") ||
     name.includes("dawn") ||
