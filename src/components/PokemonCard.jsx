@@ -5,6 +5,7 @@ import { typeTranslations } from "../data/typeTranslations";
 
 function hasSpecialForm(pokemon) {
   const id = pokemon.id;
+  const name = pokemon.name.toLowerCase();
 
   return (
     id.endsWith("M1") ||
@@ -16,7 +17,23 @@ function hasSpecialForm(pokemon) {
     id.endsWith("P1") ||
     id.endsWith("P2") ||
     id.endsWith("P3") ||
-    id.endsWith("M")
+    id.endsWith("M") ||
+
+    name.includes("mega") ||
+    name.includes("gigamax") ||
+    name.includes("alolan") ||
+    name.includes("galarian") ||
+    name.includes("hisuian") ||
+    name.includes("paldean") ||
+    name.includes("attack") ||
+    name.includes("defense") ||
+    name.includes("speed") ||
+    name.includes("origin") ||
+    name.includes("altered") ||
+    name.includes("sky") ||
+    name.includes("land") ||
+    name.includes("therian") ||
+    name.includes("incarnate")
   );
 }
 
