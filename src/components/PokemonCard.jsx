@@ -70,7 +70,7 @@ function hasSpecialForm(pokemon) {
     name.includes("gmax") ||
     name.includes("speed") ||
     name.includes("dawn") ||
-    name.includes("dusk") ||
+    name.includes(" dusk") ||
     name.includes("solo") ||
     name.includes("land") ||
     name.includes("west") ||
