@@ -116,7 +116,7 @@ function hasSpecialForm(pokemon) {
     name.includes("sobble") ||
     name.includes("rillaboom") ||
     name.includes("cinderace") ||
-    name.includes("raichu") ||
+    name.includes("raichu")
   );
 }
 
