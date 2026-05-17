@@ -106,4 +106,5 @@ export const spriteOverrides = {
   "0413SW": 10008,
   "0413TW": 10009,
   "0122G": 10168,
+  "0194P": 10253,
 };
