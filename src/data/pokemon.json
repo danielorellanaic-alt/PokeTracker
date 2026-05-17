@@ -5111,5 +5111,710 @@
       "rock",
       "grass"
     ]
+  },
+  {
+    "id": "0346",
+    "pokedex": 346,
+    "name": "Cradily",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0346.png",
+    "types": [
+      "rock",
+      "grass"
+    ]
+  },
+  {
+    "id": "0347",
+    "pokedex": 347,
+    "name": "Anorith",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0347.png",
+    "types": [
+      "rock",
+      "bug"
+    ]
+  },
+  {
+    "id": "0348",
+    "pokedex": 348,
+    "name": "Armaldo",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0348.png",
+    "types": [
+      "rock",
+      "bug"
+    ]
+  },
+  {
+    "id": "0349",
+    "pokedex": 349,
+    "name": "Feebas",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0349.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0350",
+    "pokedex": 350,
+    "name": "Milotic",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0350.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0351",
+    "pokedex": 351,
+    "name": "Castform",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0351.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0351S",
+    "pokedex": 351,
+    "name": "Castform Sunny",
+    "form": "weather",
+    "region": null,
+    "image": "images/weather/0351S.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0351R",
+    "pokedex": 351,
+    "name": "Castform Rainy",
+    "form": "weather",
+    "region": null,
+    "image": "images/weather/0351R.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0351H",
+    "pokedex": 351,
+    "name": "Castform Snowy",
+    "form": "weather",
+    "region": null,
+    "image": "images/weather/0351H.png",
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": "0352",
+    "pokedex": 352,
+    "name": "Kecleon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0352.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0353",
+    "pokedex": 353,
+    "name": "Shuppet",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0353.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0354",
+    "pokedex": 354,
+    "name": "Banette",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0354.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0354M",
+    "pokedex": 354,
+    "name": "Mega Banette",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0354M.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0355",
+    "pokedex": 355,
+    "name": "Duskull",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0355.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0356",
+    "pokedex": 356,
+    "name": "Dusclops",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0356.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0357",
+    "pokedex": 357,
+    "name": "Tropius",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0357.png",
+    "types": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "id": "0358",
+    "pokedex": 358,
+    "name": "Chimecho",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0358.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0358M",
+    "pokedex": 358,
+    "name": "Mega Chimecho",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0358M.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0359",
+    "pokedex": 359,
+    "name": "Absol",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0359.png",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": "0359M",
+    "pokedex": 359,
+    "name": "Mega Absol",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0359M.png",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": "0359MZ",
+    "pokedex": 359,
+    "name": "Mega Absol Z",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0359MZ.png",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "id": "0360",
+    "pokedex": 360,
+    "name": "Wynaut",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0360.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0361",
+    "pokedex": 361,
+    "name": "Snorunt",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0361.png",
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": "0362",
+    "pokedex": 362,
+    "name": "Glalie",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0362.png",
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": "0362M",
+    "pokedex": 362,
+    "name": "Mega Glalie",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0362M.png",
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": "0363",
+    "pokedex": 363,
+    "name": "Spheal",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0363.png",
+    "types": [
+      "ice",
+      "water"
+    ]
+  },
+  {
+    "id": "0364",
+    "pokedex": 364,
+    "name": "Sealeo",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0364.png",
+    "types": [
+      "ice",
+      "water"
+    ]
+  },
+  {
+    "id": "0365",
+    "pokedex": 365,
+    "name": "Walrein",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0365.png",
+    "types": [
+      "ice",
+      "water"
+    ]
+  },
+  {
+    "id": "0366",
+    "pokedex": 366,
+    "name": "Clamperl",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0366.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0367",
+    "pokedex": 367,
+    "name": "Huntail",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0367.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0368",
+    "pokedex": 368,
+    "name": "Gorebyss",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0368.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0369",
+    "pokedex": 369,
+    "name": "Relicanth",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0369.png",
+    "types": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "id": "0370",
+    "pokedex": 370,
+    "name": "Luvdisc",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0370.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0371",
+    "pokedex": 371,
+    "name": "Bagon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0371.png",
+    "types": [
+      "dragon"
+    ]
+  },
+  {
+    "id": "0372",
+    "pokedex": 372,
+    "name": "Shelgon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0372.png",
+    "types": [
+      "dragon"
+    ]
+  },
+  {
+    "id": "0373",
+    "pokedex": 373,
+    "name": "Salamence",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0373.png",
+    "types": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "id": "0373M",
+    "pokedex": 373,
+    "name": "Mega Salamence",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0373M.png",
+    "types": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "id": "0374",
+    "pokedex": 374,
+    "name": "Beldum",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0374.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0375",
+    "pokedex": 375,
+    "name": "Metang",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0375.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0376",
+    "pokedex": 376,
+    "name": "Metagross",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0376.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0376M",
+    "pokedex": 376,
+    "name": "Mega Metagross",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0376M.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0377",
+    "pokedex": 377,
+    "name": "Regirock",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0377.png",
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "id": "0378",
+    "pokedex": 378,
+    "name": "Regice",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0378.png",
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": "0379",
+    "pokedex": 379,
+    "name": "Registeel",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0379.png",
+    "types": [
+      "steel"
+    ]
+  },
+  {
+    "id": "0380",
+    "pokedex": 380,
+    "name": "Latias",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0380.png",
+    "types": [
+      "dragon",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0380M",
+    "pokedex": 380,
+    "name": "Mega Latias",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0380M.png",
+    "types": [
+      "dragon",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0381",
+    "pokedex": 381,
+    "name": "Latios",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0381.png",
+    "types": [
+      "dragon",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0381M",
+    "pokedex": 381,
+    "name": "Mega Latios",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0381M.png",
+    "types": [
+      "dragon",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0382",
+    "pokedex": 382,
+    "name": "Kyogre",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0382.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0382P",
+    "pokedex": 382,
+    "name": "Primal Kyogre",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0382P.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0383",
+    "pokedex": 383,
+    "name": "Groudon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0383.png",
+    "types": [
+      "ground"
+    ]
+  },
+  {
+    "id": "0383P",
+    "pokedex": 383,
+    "name": "Primal Groudon",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0383P.png",
+    "types": [
+      "ground",
+      "fire"
+    ]
+  },
+  {
+    "id": "0384",
+    "pokedex": 384,
+    "name": "Rayquaza",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0384.png",
+    "types": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "id": "0384M",
+    "pokedex": 384,
+    "name": "Mega Rayquaza",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0384M.png",
+    "types": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "id": "0385",
+    "pokedex": 385,
+    "name": "Jirachi",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0385.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0386",
+    "pokedex": 386,
+    "name": "Deoxys",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0386.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0386A",
+    "pokedex": 386,
+    "name": "Deoxys Attack",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0386A.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0386D",
+    "pokedex": 386,
+    "name": "Deoxys Defense",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0386D.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0386S",
+    "pokedex": 386,
+    "name": "Deoxys Speed",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0386S.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0387",
+    "pokedex": 387,
+    "name": "Turtwig",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0387.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0388",
+    "pokedex": 388,
+    "name": "Grotle",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0388.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0389",
+    "pokedex": 389,
+    "name": "Torterra",
+    "form": "",
+    "region": null,
+    "image": "images/normal/0389.png",
+    "types": [
+      "grass",
+      "ground"
+    ]
   }
 ]
