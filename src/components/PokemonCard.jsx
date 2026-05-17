@@ -118,6 +118,7 @@ export default function PokemonCard({
             alt={pokemon.name}
             className={
               hasSpecialForm(pokemon) &&
+              !spriteOverrides[pokemon.id] &&
               !customSprites[pokemon.id]
                 ? "pokemon-image missing-special-sprite"
                 : "pokemon-image"
