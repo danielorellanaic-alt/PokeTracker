@@ -7,6 +7,20 @@ import burmyTrash from "../assets/custom-sprites/0412TB.png";
 import burmyPlant from "../assets/custom-sprites/0412PB.png";
 import burmySandy from "../assets/custom-sprites/0412SB.png";
 import megaStarmie from "../assets/custom-sprites/0121M.png";
+import megaMeganium from "../assets/custom-sprites/0154M.png";
+import megaClefable from "../assets/custom-sprites/0036M.png";
+import gigamaxLapras from "../assets/custom-sprites/0131GG.png";
+import gigamaxEevee from "../assets/custom-sprites/0133GG.png";
+import gigamaxSnorlax from "../assets/custom-sprites/0143GG.png";
+import megaFeraligatr from "../assets/custom-sprites/0160M.png";
+import megaSkarmory from "../assets/custom-sprites/0227M.png";
+import megaChimecho from "../assets/custom-sprites/0358M.png";
+import megaAbsolZ from "../assets/custom-sprites/0359M.png";
+import primalKyogre from "../assets/custom-sprites/0382Pr.png";
+import primalGroudon from "../assets/custom-sprites/0383Pr.png"; 
+import megaStaraptor from "../assets/custom-sprites/0398M.png";
+import overcastCherrim from "../assets/custom-sprites/0421OC.png";
+import sunshineCherrim from "../assets/custom-sprites/0421SS.png";
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -18,4 +32,18 @@ export const customSprites = {
   "0412PB": burmyPlant,
   "0412SB": burmySandy,
   "0121M": megaStarmie,
+  "0154M": megaMeganium,
+  "0036M": megaClefable,
+  "0131GG": gigamaxLapras,
+  "0133GG": gigamaxEevee,
+  "0143GG": gigamaxSnorlax,
+  "0160M": megaFeraligatr,
+  "0227M": megaSkarmory,
+  "0358M": megaChimecho,
+  "0359M": megaAbsolZ,
+  "0382Pr": primalKyogre,
+  "0383Pr": primalGroudon,
+  "0398M": megaStaraptor,
+  "0421OC": overcastCherrim,
+  "0421SS": sunshineCherrim,
 };

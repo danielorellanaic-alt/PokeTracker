@@ -627,7 +627,7 @@
     "name": "Mega Clefable",
     "form": "mega",
     "region": null,
-    "image": "images/normal/0036.png",
+    "image": "images/normal/0036M.png",
     "types": [
       "fairy",
       "flying"
@@ -5670,12 +5670,12 @@
     ]
   },
   {
-    "id": "0382P",
+    "id": "0382Pr",
     "pokedex": 382,
     "name": "Primal Kyogre",
     "form": "",
     "region": null,
-    "image": "images/normal/0382P.png",
+    "image": "images/normal/0382Pr.png",
     "types": [
       "water"
     ]
@@ -5692,12 +5692,12 @@
     ]
   },
   {
-    "id": "0383P",
+    "id": "0383Pr",
     "pokedex": 383,
     "name": "Primal Groudon",
     "form": "",
     "region": null,
-    "image": "images/normal/0383P.png",
+    "image": "images/normal/0383Pr.png",
     "types": [
       "ground",
       "fire"
