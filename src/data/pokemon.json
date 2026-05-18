@@ -6486,7 +6486,7 @@
   {
     "id": "0439",
     "pokedex": 439,
-    "name": "(Mime Jr.)",
+    "name": "Mime Jr.",
     "form": "",
     "region": null,
     "image": "/images/normal/0439.png",
@@ -6529,5 +6529,412 @@
       "ghost",
       "dark"
     ]
+  },
+  {
+    "id": "0443",
+    "pokedex": 443,
+    "name": "Gible",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0443.png",
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "id": "0444",
+    "pokedex": 444,
+    "name": "Gabite",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0444.png",
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "id": "0445",
+    "pokedex": 445,
+    "name": "Garchomp",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0445.png",
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "id": "0445M",
+    "pokedex": 445,
+    "name": "Mega Garchomp",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0445M.png",
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "id": "0445M2",
+    "pokedex": 445,
+    "name": "Mega Garchomp Z",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0445M2.png",
+    "types": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "id": "0446",
+    "pokedex": 446,
+    "name": "Munchlax",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0446.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0447",
+    "pokedex": 447,
+    "name": "Riolu",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0447.png",
+    "types": [
+      "fighting"
+    ]
+  },
+  {
+    "id": "0448",
+    "pokedex": 448,
+    "name": "Lucario",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0448.png",
+    "types": [
+      "fighting",
+      "steel"
+    ]
+  },
+  {
+    "id": "0448M",
+    "pokedex": 448,
+    "name": "Mega Lucario",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0448M.png",
+    "types": [
+      "fighting",
+      "steel"
+    ]
+  },
+  {
+    "id": "0448M3",
+    "pokedex": 448,
+    "name": "Mega Lucario Z",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0448M3.png",
+    "types": [
+      "fighting",
+      "steel"
+    ]
+  },
+  {
+    "id": "0449",
+    "pokedex": 449,
+    "name": "Hippopotas",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0449.png",
+    "types": [
+      "ground"
+    ]
+  },
+  {
+    "id": "0450",
+    "pokedex": 450,
+    "name": "Hippowdon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0450.png",
+    "types": [
+      "ground"
+    ]
+  },
+  {
+    "id": "0451",
+    "pokedex": 451,
+    "name": "Skorupi",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0451.png",
+    "types": [
+      "poison",
+      "bug"
+    ]
+  },
+  {
+    "id": "0452",
+    "pokedex": 452,
+    "name": "Drapion",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0452.png",
+    "types": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "id": "0453",
+    "pokedex": 453,
+    "name": "Croagunk",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0453.png",
+    "types": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0454",
+    "pokedex": 454,
+    "name": "Toxicroak",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0454.png",
+    "types": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0455",
+    "pokedex": 455,
+    "name": "Carnivine",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0455.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0456",
+    "pokedex": 456,
+    "name": "Finneon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0456.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0457",
+    "pokedex": 457,
+    "name": "Lumineon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0457.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0458",
+    "pokedex": 458,
+    "name": "Mantyke",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0458.png",
+    "types": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "id": "0459",
+    "pokedex": 459,
+    "name": "Snover",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0459.png",
+    "types": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "id": "0460",
+    "pokedex": 460,
+    "name": "Abomasnow",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0460.png",
+    "types": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "id": "0460M",
+    "pokedex": 460,
+    "name": "Mega Abomasnow",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0460M.png",
+    "types": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "id": "0461",
+    "pokedex": 461,
+    "name": "Weavile",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0461.png",
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "id": "0462",
+    "pokedex": 462,
+    "name": "Magnezone",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0462.png",
+    "types": [
+      "electric",
+      "steel"
+    ]
+  },
+  {
+    "id": "0463",
+    "pokedex": 463,
+    "name": "Lickilicky",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0463.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0464",
+    "pokedex": 464,
+    "name": "Rhyperior",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0464.png",
+    "types": [
+      "ground",
+      "rock"
+    ]
+  },
+  {
+    "id": "0465",
+    "pokedex": 465,
+    "name": "Tangrowth",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0465.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0466",
+    "pokedex": 466,
+    "name": "Electivire",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0466.png",
+    "types": [
+      "electric"
+    ]
+  },
+  {
+    "id": "0467",
+    "pokedex": 467,
+    "name": "Magmortar",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0467.png",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "id": "0468",
+    "pokedex": 468,
+    "name": "'Togekiss'",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0468.png",
+    "types": [
+      "fairy",
+      "flying"
+    ]
+  },
+  {
+    "id": "0469",
+    "pokedex": 469,
+    "name": "Yanmega",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0469.png",
+    "types": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "id": "0470",
+    "pokedex": 470,
+    "name": "Leafeon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0470.png",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "id": "0471",
+    "pokedex": 471,
+    "name": "Glaceon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0471.png",
+    "types": [
+      "ice"
+    ]
+  },
+  {
+    "id": "0472",
+    "pokedex": 472,
+    "name": "'Gliscor'",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0472.png",
+    "types": [
+      "ground",
+      "flying"
+    ]
   }
-]
+]  
