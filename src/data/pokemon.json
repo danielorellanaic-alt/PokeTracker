@@ -6882,7 +6882,7 @@
   {
     "id": "0468",
     "pokedex": 468,
-    "name": "'Togekiss'",
+    "name": "Togekiss",
     "form": "",
     "region": null,
     "image": "/images/normal/0468.png",
@@ -6928,13 +6928,341 @@
   {
     "id": "0472",
     "pokedex": 472,
-    "name": "'Gliscor'",
+    "name": "Gliscor",
     "form": "",
     "region": null,
     "image": "/images/normal/0472.png",
     "types": [
       "ground",
       "flying"
+    ]
+  },
+  {
+    "id": "0473",
+    "pokedex": 473,
+    "name": "Mamoswine",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0473.png",
+    "types": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "id": "0474",
+    "pokedex": 474,
+    "name": "Porygon-Z",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0474.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0475",
+    "pokedex": 475,
+    "name": "Gallade",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0475.png",
+    "types": [
+      "psychic",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0475M",
+    "pokedex": 475,
+    "name": "Mega Gallade",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0475M.png",
+    "types": [
+      "psychic",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0476",
+    "pokedex": 476,
+    "name": "Probopass",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0476.png",
+    "types": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "id": "0477",
+    "pokedex": 477,
+    "name": "Dusknoir",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0477.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0478",
+    "pokedex": 478,
+    "name": "Froslass",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0478.png",
+    "types": [
+      "ice",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0478M",
+    "pokedex": 478,
+    "name": "Mega Froslass",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0478M.png",
+    "types": [
+      "ice",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0479",
+    "pokedex": 479,
+    "name": "Rotom",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0479.png",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0479F",
+    "pokedex": 479,
+    "name": "Rotom Fan",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10010.png",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0479H",
+    "pokedex": 479,
+    "name": "Rotom Heat",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10011.png",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0479W",
+    "pokedex": 479,
+    "name": "Rotom Wash",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10012.png",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0479C",
+    "pokedex": 479,
+    "name": "Rotom Frost",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10013.png",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0479M",
+    "pokedex": 479,
+    "name": "Rotom Mow",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10014.png",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "id": "0480",
+    "pokedex": 480,
+    "name": "Uxie",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0480.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0481",
+    "pokedex": 481,
+    "name": "Mesprit",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0481.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0482",
+    "pokedex": 482,
+    "name": "Azelf",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0482.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0483",
+    "pokedex": 483,
+    "name": "Dialga",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0483.png",
+    "types": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0483P",
+    "pokedex": 483,
+    "name": "Primal Dialga",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10015.png",
+    "types": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0484",
+    "pokedex": 484,
+    "name": "Palkia",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0484.png",
+    "types": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0484P",
+    "pokedex": 484,
+    "name": "Primal Palkia",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10016.png",
+    "types": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0485",
+    "pokedex": 485,
+    "name": "Heatran",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0485.png",
+    "types": [
+      "fire",
+      "steel"
+    ]
+  },
+  {
+    "id": "0485M",
+    "pokedex": 485,
+    "name": "Mega Heatran",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10017.png",
+    "types": [
+      "fire",
+      "steel"
+    ]
+  },
+  {
+    "id": "0486",
+    "pokedex": 486,
+    "name": "Regigigas",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0486.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0487",
+    "pokedex": 487,
+    "name": "Giratina Altered Forme",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0487.png",
+    "types": [
+      "ghost",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0487O",
+    "pokedex": 487,
+    "name": "Giratina Origin Forme",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/10018.png",
+    "types": [
+      "ghost",
+      "dragon"
+    ]
+  },
+  {
+    "id": "0488",
+    "pokedex": 488,
+    "name": "Cresselia",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0488.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0489",
+    "pokedex": 489,
+    "name": "Phione",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0489.png",
+    "types": [
+      "water"
     ]
   }
 ]  
