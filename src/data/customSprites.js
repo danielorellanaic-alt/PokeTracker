@@ -15,7 +15,7 @@ import gigamaxSnorlax from "../assets/custom-sprites/0143GG.png";
 import megaFeraligatr from "../assets/custom-sprites/0160M.png";
 import megaSkarmory from "../assets/custom-sprites/0227M.png";
 import megaChimecho from "../assets/custom-sprites/0358M.png";
-import megaAbsolZ from "../assets/custom-sprites/0359M.png";
+import megaAbsolZ from "../assets/custom-sprites/0359M3.png";
 import primalKyogre from "../assets/custom-sprites/0382Pr.png";
 import primalGroudon from "../assets/custom-sprites/0383Pr.png"; 
 import megaStaraptor from "../assets/custom-sprites/0398M.png";
@@ -40,7 +40,7 @@ export const customSprites = {
   "0160M": megaFeraligatr,
   "0227M": megaSkarmory,
   "0358M": megaChimecho,
-  "0359M": megaAbsolZ,
+  "0359M3": megaAbsolZ,
   "0382Pr": primalKyogre,
   "0383Pr": primalGroudon,
   "0398M": megaStaraptor,
