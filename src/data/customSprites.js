@@ -28,6 +28,18 @@ import eastGastrodon from "../assets/custom-sprites/0423E.png";
 import megaLopunny from "../assets/custom-sprites/0428M.png";
 import megaGarchomp from "../assets/custom-sprites/0445M.png";
 import megaGarchompZ from "../assets/custom-sprites/0445M3.png";
+import megaLucario from "../assets/custom-sprites/0448M.png";
+import megaLucarioZ from "../assets/custom-sprites/0448M3.png";
+import megaAbomasnow from "../assets/custom-sprites/0460M.png";
+import megaGallade from "../assets/custom-sprites/0475M.png";
+import rotomHeat from "../assets/custom-sprites/0479He.png";
+import rotomWash from "../assets/custom-sprites/0479Wa.png";
+import rotomFrost from "../assets/custom-sprites/0479Fr.png";
+import rotomMow from "../assets/custom-sprites/0479Mo.png";
+import rotomFan from "../assets/custom-sprites/0479Fa.png";
+import primalDialga from "../assets/custom-sprites/0483Pr.png";
+import primalPalkia from "../assets/custom-sprites/0484Pr.png";
+import alteredGiratina from "../assets/custom-sprites/0487AF.png";
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -59,5 +71,18 @@ export const customSprites = {
   "0423E": eastGastrodon,
   "0428M": megaLopunny,
   "0445M": megaGarchomp,
-  "0445M3": megaGarchompZ
+  "0445M3": megaGarchompZ,
+  "0448M": megaLucario,
+  "0448M3": megaLucarioZ,
+  "0460M": megaAbomasnow,
+  "0475M": megaGallade,
+  "0479He": rotomHeat,
+  "0479Wa": rotomWash,
+  "0479Fr": rotomFrost,
+  "0479Mo": rotomMow,
+  "0479Fa": rotomFan,
+  "0483Pr": primalDialga,
+  "0484Pr": primalPalkia,
+  "0487AF": alteredGiratina,
+  "0487OF": originGiratina,
 };

@@ -7044,60 +7044,60 @@
     ]
   },
   {
-    "id": "0479F",
+    "id": "0479Fa",
     "pokedex": 479,
     "name": "Rotom Fan",
     "form": "",
     "region": null,
-    "image": "/images/normal/10010.png",
+    "image": "/images/normal/0479Fa.png",
     "types": [
       "electric",
       "ghost"
     ]
   },
   {
-    "id": "0479H",
+    "id": "0479He",
     "pokedex": 479,
     "name": "Rotom Heat",
     "form": "",
     "region": null,
-    "image": "/images/normal/10011.png",
+    "image": "/images/normal/0479He.png",
     "types": [
       "electric",
       "ghost"
     ]
   },
   {
-    "id": "0479W",
+    "id": "0479Wa",
     "pokedex": 479,
     "name": "Rotom Wash",
     "form": "",
     "region": null,
-    "image": "/images/normal/10012.png",
+    "image": "/images/normal/0479Wa.png",
     "types": [
       "electric",
       "ghost"
     ]
   },
   {
-    "id": "0479C",
+    "id": "0479Fr",
     "pokedex": 479,
     "name": "Rotom Frost",
     "form": "",
     "region": null,
-    "image": "/images/normal/10013.png",
+    "image": "/images/normal/0479Fr.png",
     "types": [
       "electric",
       "ghost"
     ]
   },
   {
-    "id": "0479M",
+    "id": "0479Mo",
     "pokedex": 479,
     "name": "Rotom Mow",
     "form": "",
     "region": null,
-    "image": "/images/normal/10014.png",
+    "image": "/images/normal/0479Mo.png",
     "types": [
       "electric",
       "ghost"
@@ -7149,12 +7149,12 @@
     ]
   },
   {
-    "id": "0483P",
+    "id": "0483Pr",
     "pokedex": 483,
     "name": "Primal Dialga",
     "form": "",
     "region": null,
-    "image": "/images/normal/10015.png",
+    "image": "/images/normal/0483Pr.png",
     "types": [
       "steel",
       "dragon"
@@ -7173,12 +7173,12 @@
     ]
   },
   {
-    "id": "0484P",
+    "id": "0484Pr",
     "pokedex": 484,
     "name": "Primal Palkia",
     "form": "",
     "region": null,
-    "image": "/images/normal/10016.png",
+    "image": "/images/normal/0484Pr.png",
     "types": [
       "water",
       "dragon"
@@ -7220,24 +7220,24 @@
     ]
   },
   {
-    "id": "0487",
+    "id": "0487AF",
     "pokedex": 487,
     "name": "Giratina Altered Forme",
     "form": "",
     "region": null,
-    "image": "/images/normal/0487.png",
+    "image": "/images/normal/0487AF.png",
     "types": [
       "ghost",
       "dragon"
     ]
   },
   {
-    "id": "0487O",
+    "id": "0487OF",
     "pokedex": 487,
     "name": "Giratina Origin Forme",
     "form": "",
     "region": null,
-    "image": "/images/normal/10018.png",
+    "image": "/images/normal/0487OF.png",
     "types": [
       "ghost",
       "dragon"
