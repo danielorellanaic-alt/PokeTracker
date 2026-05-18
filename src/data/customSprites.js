@@ -6,6 +6,7 @@ import megaraichuy from "../assets/custom-sprites/0026M2.png";
 import burmyTrash from "../assets/custom-sprites/0412TB.png";
 import burmyPlant from "../assets/custom-sprites/0412PB.png";
 import burmySandy from "../assets/custom-sprites/0412SB.png";
+import megaStarmie from "../assets/custom-sprites/0121M.png";
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -16,5 +17,5 @@ export const customSprites = {
   "0412TB": burmyTrash,
   "0412PB": burmyPlant,
   "0412SB": burmySandy,
-
+  "0121M": megaStarmie,
 };
