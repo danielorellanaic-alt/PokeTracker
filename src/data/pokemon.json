@@ -6263,5 +6263,271 @@
     "types": [
       "water"
     ]
+  },
+  {
+    "id": "0422E",
+    "pokedex": 422,
+    "name": "East Shellos",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0422E.png",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "id": "0423W",
+    "pokedex": 423,
+    "name": "West Gastrodon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0423W.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0423E",
+    "pokedex": 423,
+    "name": "East Gastrodon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0423E.png",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "id": "0424",
+    "pokedex": 424,
+    "name": "Ambipom",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0424.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0425",
+    "pokedex": 425,
+    "name": "Drifloon",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0425.png",
+    "types": [
+      "ghost",
+      "flying"
+    ]
+  },
+  {
+    "id": "0426",
+    "pokedex": 426,
+    "name": "Drifblim",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0426.png",
+    "types": [
+      "ghost",
+      "flying"
+    ]
+  },
+  {
+    "id": "0427",
+    "pokedex": 427,
+    "name": "Buneary",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0427.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0428",
+    "pokedex": 428,
+    "name": "Lopunny",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0428.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0428M",
+    "pokedex": 428,
+    "name": "Mega Lopunny",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0428M.png",
+    "types": [
+      "normal",
+      "fighting"
+    ]
+  },
+  {
+    "id": "0429",
+    "pokedex": 429,
+    "name": "Mismagius",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0429.png",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "id": "0430",
+    "pokedex": 430,
+    "name": "Honchkrow",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0430.png",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "id": "0431",
+    "pokedex": 431,
+    "name": "Glameow",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0431.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0432",
+    "pokedex": 432,
+    "name": "Purugly",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0432.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0433",
+    "pokedex": 433,
+    "name": "Chingling",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0433.png",
+    "types": [
+      "psychic"
+    ]
+  },
+  {
+    "id": "0434",
+    "pokedex": 434,
+    "name": "Stunky",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0434.png",
+    "types": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "id": "0435",
+    "pokedex": 435,
+    "name": "Skuntank",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0435.png",
+    "types": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "id": "0436",
+    "pokedex": 436,
+    "name": "Bronzor",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0436.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0437",
+    "pokedex": 437,
+    "name": "Bronzong",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0437.png",
+    "types": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "id": "0438",
+    "pokedex": 438,
+    "name": "Bonsly",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0438.png",
+    "types": [
+      "rock"
+    ]
+  },
+  {
+    "id": "0439",
+    "pokedex": 439,
+    "name": "(Mime Jr.)",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0439.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "id": "0440",
+    "pokedex": 440,
+    "name": "Happiny",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0440.png",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "id": "0441",
+    "pokedex": 441,
+    "name": "Chatot",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0441.png",
+    "types": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "id": "0442",
+    "pokedex": 442,
+    "name": "Spiritomb",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0442.png",
+    "types": [
+      "ghost",
+      "dark"
+    ]
   }
 ]
