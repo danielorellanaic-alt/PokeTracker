@@ -21,6 +21,8 @@ import primalGroudon from "../assets/custom-sprites/0383Pr.png";
 import megaStaraptor from "../assets/custom-sprites/0398M.png";
 import overcastCherrim from "../assets/custom-sprites/0421OC.png";
 import sunshineCherrim from "../assets/custom-sprites/0421SS.png";
+import eastShellos from "../assets/custom-sprites/0422E.png";
+import westShellos from "../assets/custom-sprites/0422W.png";
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -46,4 +48,6 @@ export const customSprites = {
   "0398M": megaStaraptor,
   "0421OC": overcastCherrim,
   "0421SS": sunshineCherrim,
+  "0422E": eastShellos,
+  "0422W": westShellos,
 };
