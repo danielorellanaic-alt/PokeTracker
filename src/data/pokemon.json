@@ -6362,7 +6362,7 @@
     "name": "Mega Lopunny",
     "form": "",
     "region": null,
-    "image": "/images/normal/10088.png",
+    "image": "/images/normal/0428M.png",
     "types": [
       "normal",
       "fighting"
@@ -6579,12 +6579,12 @@
     ]
   },
   {
-    "id": "0445M2",
+    "id": "0445M3",
     "pokedex": 445,
     "name": "Mega Garchomp Z",
     "form": "",
     "region": null,
-    "image": "/images/normal/0445M2.png",
+    "image": "/images/normal/0445M3.png",
     "types": [
       "dragon",
       "ground"

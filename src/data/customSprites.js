@@ -23,6 +23,11 @@ import overcastCherrim from "../assets/custom-sprites/0421OC.png";
 import sunshineCherrim from "../assets/custom-sprites/0421SS.png";
 import eastShellos from "../assets/custom-sprites/0422E.png";
 import westShellos from "../assets/custom-sprites/0422W.png";
+import westGastrodon from "../assets/custom-sprites/0423W.png";
+import eastGastrodon from "../assets/custom-sprites/0423E.png";
+import megaLopunny from "../assets/custom-sprites/0428M.png";
+import megaGarchomp from "../assets/custom-sprites/0445M.png";
+import megaGarchompZ from "../assets/custom-sprites/0445M3.png";
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -50,4 +55,9 @@ export const customSprites = {
   "0421SS": sunshineCherrim,
   "0422E": eastShellos,
   "0422W": westShellos,
+  "0423W": westGastrodon,
+  "0423E": eastGastrodon,
+  "0428M": megaLopunny,
+  "0445M": megaGarchomp,
+  "0445M3": megaGarchompZ
 };
