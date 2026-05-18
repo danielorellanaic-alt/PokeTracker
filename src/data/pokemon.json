@@ -6254,12 +6254,12 @@
     ]
   },
   {
-    "id": "0422",
+    "id": "0422W",
     "pokedex": 422,
-    "name": "Shellos",
+    "name": "West Shellos",
     "form": "",
     "region": null,
-    "image": "/images/normal/0422.png",
+    "image": "/images/normal/0422W.png",
     "types": [
       "water"
     ]
