@@ -86,4 +86,5 @@ export const customSprites = {
   "0484Pr": primalPalkia,
   "0487AF": alteredGiratina,
   "0487OF": originGiratina,
+  "0485M": megaHeatran,
 };
