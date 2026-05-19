@@ -44,6 +44,14 @@ import originGiratina from "../assets/custom-sprites/0487OF.png";
 import megaHeatran from "../assets/custom-sprites/0485M.png";
 import megaFroslass from "../assets/custom-sprites/0478M.png";
 import megaDarkrai from "../assets/custom-sprites/0491M.png"
+import landShaymin from "../assets/custom-sprites/0492LF.png"
+import skyShaymin from "../assets/custom-sprites/0492SF.png"
+import megaEmboar from "../assets/custom-sprites/0500M.png"
+import hisuianSamurott from "../assets/custom-sprites/0503H.png"
+import femaleUnfezant from "../assets/custom-sprites/0521FL.png"
+import maleUnfezant from "../assets/custom-sprites/0521ML.png"
+import megaExcadrill from "../assets/custom-sprites/0530M.png"
+import megaAudino from "../assets/custom-sprites/0531M.png"
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -92,4 +100,12 @@ export const customSprites = {
   "0485M": megaHeatran,
   "0478M": megaFroslass,
   "0491M": megaDarkrai,
+  "0492LF": landShaymin,
+  "0492SF": skyShaymin,
+  "0500M": megaEmboar,
+  "0503H": hisuianSamurott,
+  "0521FL": femaleUnfezant,
+  "0521ML": maleUnfezant,
+  "0530M": megaExcadrill,
+  "0531M": megaAudino,
 };

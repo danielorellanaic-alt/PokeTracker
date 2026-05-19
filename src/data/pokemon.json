@@ -7299,23 +7299,23 @@
     ]
   },
   {
-    "id": "0492",
+    "id": "0492LF",
     "pokedex": 492,
     "name": "Shaymin Land Forme",
     "form": "",
     "region": null,
-    "image": "/images/normal/0492L.png",
+    "image": "/images/normal/0492LF.png",
     "types": [
       "grass"
     ]
   },
   {
-    "id": "0492S",
+    "id": "0492SF",
     "pokedex": 492,
     "name": "Shaymin Sky Forme",
     "form": "",
     "region": null,
-    "image": "/images/normal/0492S.png",
+    "image": "/images/normal/0492SF.png",
     "types": [
       "grass",
       "flying"
