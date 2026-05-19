@@ -7979,5 +7979,17 @@
       "bug",
       "poison"
     ]
+  },
+  {
+    "id": "0545M",
+    "pokedex": 545,
+    "name": "Mega Scolipede",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0545M.png",
+    "tupes": [
+      "bug",
+      "poison"
+    ]
   }
 ] 
