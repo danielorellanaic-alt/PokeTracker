@@ -43,6 +43,7 @@ import alteredGiratina from "../assets/custom-sprites/0487AF.png";
 import originGiratina from "../assets/custom-sprites/0487OF.png";
 import megaHeatran from "../assets/custom-sprites/0485M.png";
 import megaFroslass from "../assets/custom-sprites/0478M.png";
+import megaDarkrai from "../assets/custom-sprites/0491M.png"
 
 export const customSprites = {
   "0413PW": wormadamPlant,
@@ -90,4 +91,5 @@ export const customSprites = {
   "0487OF": originGiratina,
   "0485M": megaHeatran,
   "0478M": megaFroslass,
+  "0491M": megaDarkrai,
 };
