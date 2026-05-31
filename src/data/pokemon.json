@@ -7987,9 +7987,20 @@
     "form": "",
     "region": null,
     "image": "/images/normal/0545M.png",
-    "tupes": [
+    "types": [
       "bug",
       "poison"
+    ]
+  },
+  {
+    "id": "0546",
+    "pokedex": 546,
+    "name": "Cottonee",
+    "form": "",
+    "region": null,
+    "image": "/images/normal/0546.png",
+    "types": [
+      
     ]
   }
 ] 
