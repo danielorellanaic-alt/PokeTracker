@@ -11,24 +11,13 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(15, 15, 18, 0.92);
+  background: #0f0f12;
   backdrop-filter: blur(18px);
   padding-bottom: 14px;
 }
 
 .pokedex-sticky-header::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -22px;
-  width: 100%;
-  height: 28px;
-  pointer-events: none;
-  background: linear-gradient(
-    to bottom,
-    rgba(15, 15, 18, 0.55),
-    rgba(15, 15, 18, 0)
-  );
+  display: none;
 }
 
 /* ===== LISTA ===== */
@@ -156,7 +145,7 @@
   top: 0;
   height: 100vh;
   padding: 14px 10px;
-  background: rgba(255, 255, 255, 0.03);
+  background: rgba(15, 15, 18, 0.98);
   backdrop-filter: blur(12px);
   overflow-y: auto;
   scrollbar-width: none;
@@ -313,16 +302,21 @@
 
   .sidebar-toggle {
     position: fixed;
-    top: 118px;
+    top: 64px;
     left: 20px;
     z-index: 1000;
-    width: 56px;
-    height: 56px;
+
+    width: 48px;
+    height: 48px;
+
     border-radius: 18px;
     margin: 0;
+
     background: #ef4056;
     color: white;
+
     font-size: 22px;
+
     box-shadow: 0 10px 28px rgba(239, 64, 86, 0.45);
   }
 
