@@ -308,7 +308,7 @@
 
   .sidebar-toggle {
     position: fixed;
-    top: 16px;
+    top: 14px;
     left: 16px;
     z-index: 1000;
     width: 46px;
