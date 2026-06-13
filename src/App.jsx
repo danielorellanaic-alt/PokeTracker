@@ -6,11 +6,24 @@ import { List, Layers3, PieChart } from "lucide-react";
 import Header from "./components/Header";
 import PokemonCard from "./components/PokemonCard";
 import ProgressBar from "./components/ProgressBar";
+import Sidebar from "./components/Sidebar";
 
-import pokemonData from "./data/pokemon.json";
+import pokemonData from "./data/pokemonData";
+
+const specialSections = [
+  "mega",
+  "gigamax",
+  "alola",
+  "galar",
+  "hisui",
+  "paldea",
+  "other",
+];
 
 export default function App() {
   const [activePage, setActivePage] = useState("pokedex");
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [selectedGeneration, setSelectedGeneration] = useState("all");
   const [search, setSearch] = useState("");
   const [caught, setCaught] = useState([]);
   const [filter, setFilter] = useState("all");
@@ -42,59 +55,92 @@ export default function App() {
 
     const isCaught = caught.includes(pokemon.id);
 
+    const matchesSection =
+      selectedGeneration === "all" ||
+      pokemon.generation === selectedGeneration ||
+      pokemon.section === selectedGeneration;
+
     if (filter === "caught") {
-      return matchesSearch && isCaught;
+      return matchesSearch && isCaught && matchesSection;
     }
 
     if (filter === "uncaught") {
-      return matchesSearch && !isCaught;
+      return matchesSearch && !isCaught && matchesSection;
     }
 
-    return matchesSearch;
+    return matchesSearch && matchesSection;
   });
+
+  const showComingSoon =
+    specialSections.includes(selectedGeneration) &&
+    filteredPokemon.length === 0;
 
   return (
     <div className="app">
       {activePage === "pokedex" && (
-        <>
-          <div className="pokedex-sticky-header">
-            <Header search={search} setSearch={setSearch} />
+        <div
+          className={`pokedex-layout ${
+            sidebarOpen ? "sidebar-open" : "sidebar-closed"
+          }`}
+        >
+          <Sidebar
+            sidebarOpen={sidebarOpen}
+            setSidebarOpen={setSidebarOpen}
+            selectedGeneration={selectedGeneration}
+            setSelectedGeneration={setSelectedGeneration}
+          />
 
-            <div className="filter-buttons">
-              <button
-                className={filter === "all" ? "active" : ""}
-                onClick={() => setFilter("all")}
-              >
-                Todos
-              </button>
+          <main className="pokedex-content">
+            <div className="pokedex-sticky-header">
+              <Header search={search} setSearch={setSearch} />
 
-              <button
-                className={filter === "caught" ? "active" : ""}
-                onClick={() => setFilter("caught")}
-              >
-                Capturados
-              </button>
+              <div className="filter-buttons">
+                <button
+                  className={filter === "all" ? "active" : ""}
+                  onClick={() => setFilter("all")}
+                >
+                  Todos
+                </button>
 
-              <button
-                className={filter === "uncaught" ? "active" : ""}
-                onClick={() => setFilter("uncaught")}
-              >
-                Sin capturar
-              </button>
+                <button
+                  className={filter === "caught" ? "active" : ""}
+                  onClick={() => setFilter("caught")}
+                >
+                  Capturados
+                </button>
+
+                <button
+                  className={filter === "uncaught" ? "active" : ""}
+                  onClick={() => setFilter("uncaught")}
+                >
+                  Sin capturar
+                </button>
+              </div>
             </div>
-          </div>
 
-          <div className="pokemon-list">
-            {filteredPokemon.map((pokemon) => (
-              <PokemonCard
-                key={`${pokemon.id}`}
-                pokemon={pokemon}
-                caught={caught.includes(pokemon.id)}
-                toggle={toggleCaught}
-              />
-            ))}
-          </div>
-        </>
+            <div className="pokemon-list">
+              {showComingSoon ? (
+                <div className="coming-soon">
+                  <h2>🚧 Próximamente</h2>
+                  <p>Esta sección todavía está en desarrollo.</p>
+                  <small>
+                    Las formas especiales se están preparando para futuras
+                    actualizaciones.
+                  </small>
+                </div>
+              ) : (
+                filteredPokemon.map((pokemon) => (
+                  <PokemonCard
+                    key={pokemon.id}
+                    pokemon={pokemon}
+                    caught={caught.includes(pokemon.id)}
+                    toggle={toggleCaught}
+                  />
+                ))
+              )}
+            </div>
+          </main>
+        </div>
       )}
 
       {activePage === "collections" && (

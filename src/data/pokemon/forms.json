@@ -1,0 +1,440 @@
+[
+  {
+    "id": "0003-mega",
+    "pokedex": 3,
+    "name": "Venusaur",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10033
+  },
+  {
+    "id": "0006-mega-x",
+    "pokedex": 6,
+    "name": "Charizard",
+    "form": "Mega X",
+    "section": "mega",
+    "spriteId": 10034
+  },
+  {
+    "id": "0006-mega-y",
+    "pokedex": 6,
+    "name": "Charizard",
+    "form": "Mega Y",
+    "section": "mega",
+    "spriteId": 10035
+  },
+  {
+    "id": "0009-mega",
+    "pokedex": 9,
+    "name": "Blastoise",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10036
+  },
+  {
+    "id": "0015-mega",
+    "pokedex": 15,
+    "name": "Beedrill",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10090
+  },
+  {
+    "id": "0018-mega",
+    "pokedex": 18,
+    "name": "Pidgeot",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10073
+  },
+  {
+    "id": "0065-mega",
+    "pokedex": 65,
+    "name": "Alakazam",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10037
+  },
+  {
+    "id": "0080-mega",
+    "pokedex": 80,
+    "name": "Slowbro",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10104
+  },
+  {
+    "id": "0094-mega",
+    "pokedex": 94,
+    "name": "Gengar",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10038
+  },
+  {
+    "id": "0115-mega",
+    "pokedex": 115,
+    "name": "Kangaskhan",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10039
+  },
+  {
+    "id": "0127-mega",
+    "pokedex": 127,
+    "name": "Pinsir",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10040
+  },
+  {
+    "id": "0130-mega",
+    "pokedex": 130,
+    "name": "Gyarados",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10041
+  },
+  {
+    "id": "0142-mega",
+    "pokedex": 142,
+    "name": "Aerodactyl",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10042
+  },
+  {
+    "id": "0150-mega-x",
+    "pokedex": 150,
+    "name": "Mewtwo",
+    "form": "Mega X",
+    "section": "mega",
+    "spriteId": 10043
+  },
+  {
+    "id": "0150-mega-y",
+    "pokedex": 150,
+    "name": "Mewtwo",
+    "form": "Mega Y",
+    "section": "mega",
+    "spriteId": 10044
+  },
+  {
+    "id": "0181-mega",
+    "pokedex": 181,
+    "name": "Ampharos",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10045
+  },
+  {
+    "id": "0208-mega",
+    "pokedex": 208,
+    "name": "Steelix",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10072
+  },
+  {
+    "id": "0212-mega",
+    "pokedex": 212,
+    "name": "Scizor",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10046
+  },
+  {
+    "id": "0214-mega",
+    "pokedex": 214,
+    "name": "Heracross",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10047
+  },
+  {
+    "id": "0229-mega",
+    "pokedex": 229,
+    "name": "Houndoom",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10048
+  },
+  {
+    "id": "0248-mega",
+    "pokedex": 248,
+    "name": "Tyranitar",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10049
+  },
+  {
+    "id": "0254-mega",
+    "pokedex": 254,
+    "name": "Sceptile",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10065
+  },
+  {
+    "id": "0257-mega",
+    "pokedex": 257,
+    "name": "Blaziken",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10050
+  },
+  {
+    "id": "0260-mega",
+    "pokedex": 260,
+    "name": "Swampert",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10064
+  },
+  {
+    "id": "0282-mega",
+    "pokedex": 282,
+    "name": "Gardevoir",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10051
+  },
+  {
+    "id": "0302-mega",
+    "pokedex": 302,
+    "name": "Sableye",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10066
+  },
+  {
+    "id": "0303-mega",
+    "pokedex": 303,
+    "name": "Mawile",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10052
+  },
+  {
+    "id": "0306-mega",
+    "pokedex": 306,
+    "name": "Aggron",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10053
+  },
+  {
+    "id": "0308-mega",
+    "pokedex": 308,
+    "name": "Medicham",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10054
+  },
+  {
+    "id": "0310-mega",
+    "pokedex": 310,
+    "name": "Manectric",
+    "form": "Mega",
+    "section": "mega",
+    "spriteId": 10055
+  },
+
+
+  {
+  "id": "0025-gigamax",
+  "pokedex": 25,
+  "name": "Pikachu",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0052-gigamax",
+  "pokedex": 52,
+  "name": "Meowth",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0068-gigamax",
+  "pokedex": 68,
+  "name": "Machamp",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0094-gigamax",
+  "pokedex": 94,
+  "name": "Gengar",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0131-gigamax",
+  "pokedex": 131,
+  "name": "Lapras",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0133-gigamax",
+  "pokedex": 133,
+  "name": "Eevee",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0143-gigamax",
+  "pokedex": 143,
+  "name": "Snorlax",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0569-gigamax",
+  "pokedex": 569,
+  "name": "Garbodor",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0809-gigamax",
+  "pokedex": 809,
+  "name": "Melmetal",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0812-gigamax",
+  "pokedex": 812,
+  "name": "Rillaboom",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0815-gigamax",
+  "pokedex": 815,
+  "name": "Cinderace",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0818-gigamax",
+  "pokedex": 818,
+  "name": "Inteleon",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0823-gigamax",
+  "pokedex": 823,
+  "name": "Corviknight",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0826-gigamax",
+  "pokedex": 826,
+  "name": "Orbeetle",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0834-gigamax",
+  "pokedex": 834,
+  "name": "Drednaw",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0839-gigamax",
+  "pokedex": 839,
+  "name": "Coalossal",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0841-gigamax",
+  "pokedex": 841,
+  "name": "Flapple",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0842-gigamax",
+  "pokedex": 842,
+  "name": "Appletun",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0844-gigamax",
+  "pokedex": 844,
+  "name": "Sandaconda",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0849-gigamax",
+  "pokedex": 849,
+  "name": "Toxtricity",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0851-gigamax",
+  "pokedex": 851,
+  "name": "Centiskorch",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0858-gigamax",
+  "pokedex": 858,
+  "name": "Hatterene",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0861-gigamax",
+  "pokedex": 861,
+  "name": "Grimmsnarl",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0869-gigamax",
+  "pokedex": 869,
+  "name": "Alcremie",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0879-gigamax",
+  "pokedex": 879,
+  "name": "Copperajah",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0884-gigamax",
+  "pokedex": 884,
+  "name": "Duraludon",
+  "form": "Gigamax",
+  "section": "gigamax"
+},
+{
+  "id": "0892-gigamax-single",
+  "pokedex": 892,
+  "name": "Urshifu",
+  "form": "Gigamax Single Strike",
+  "section": "gigamax"
+},
+{
+  "id": "0892-gigamax-rapid",
+  "pokedex": 892,
+  "name": "Urshifu",
+  "form": "Gigamax Rapid Strike",
+  "section": "gigamax"
+}
+]
